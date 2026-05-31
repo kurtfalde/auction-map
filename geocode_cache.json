@@ -1,4 +1,10 @@
 {
+  "1007 E FISHER ST, PENSACOLA, FL 32503": {
+    "display_name": "1007 E FISHER ST, PENSACOLA, FL, 32503",
+    "lat": 30.442202342484,
+    "lon": -87.209744424425,
+    "source": "US Census"
+  },
   "1132 SWEETBRIAR ST, CANTONMENT, FL 32533": {
     "display_name": "1132 SWEETBRIAR ST, CANTONMENT, FL, 32533",
     "lat": 30.538723349439,
@@ -33,6 +39,12 @@
     "display_name": "4315 N 9TH AVE, PENSACOLA, FL, 32503",
     "lat": 30.461188033944,
     "lon": -87.214486362627,
+    "source": "US Census"
+  },
+  "4409 HAVRE WAY, PENSACOLA, FL 32505": {
+    "display_name": "4409 HAVRE WAY, PENSACOLA, FL, 32505",
+    "lat": 30.451930835163,
+    "lon": -87.264580846589,
     "source": "US Census"
   },
   "4955 LANETT DR, PENSACOLA, FL 32526": {
