@@ -29,6 +29,12 @@
     "lon": -87.209880568181,
     "source": "US Census"
   },
+  "4019 N 8TH AVE, PENSACOLA, FL 32503": {
+    "display_name": "4019 N 8TH AVE, PENSACOLA, FL, 32503",
+    "lat": 30.45525590814,
+    "lon": -87.216267892366,
+    "source": "US Census"
+  },
   "4021 SCHIFKO RD, CANTONMENT, FL 32533": {
     "display_name": "4021 SCHIFKO RD, CANTONMENT, FL, 32533",
     "lat": 30.675197427282,
@@ -69,6 +75,12 @@
     "display_name": "7323 SINGLE TRCE, PENSACOLA, FL, 32526",
     "lat": 30.509203423636,
     "lon": -87.359716064437,
+    "source": "US Census"
+  },
+  "9560 SUNNEHANNA B102, PENSACOLA, FL 32514": {
+    "display_name": "9560 SUNNEHANNA BLVD, PENSACOLA, FL, 32514",
+    "lat": 30.535747612306,
+    "lon": -87.236489812239,
     "source": "US Census"
   }
 }
