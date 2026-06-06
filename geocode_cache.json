@@ -11,6 +11,12 @@
     "lon": -87.312294802051,
     "source": "US Census"
   },
+  "1450 COUNTRY HILLS RD, CANTONMENT, FL 32533": {
+    "display_name": "1450 COUNTRY HILLS DR, CANTONMENT, FL, 32533",
+    "lat": 30.661119987492,
+    "lon": -87.379784128025,
+    "source": "US Census"
+  },
   "2301 W MICHIGAN AVE 14, PENSACOLA, FL 32526": {
     "display_name": "2301 W MICHIGAN AVE, PENSACOLA, FL, 32526",
     "lat": 30.460539142481,
@@ -21,6 +27,12 @@
     "display_name": "2420 N U ST, PENSACOLA, FL, 32505",
     "lat": 30.437505515177,
     "lon": -87.246913820159,
+    "source": "US Census"
+  },
+  "30 CALLE TRAVIESA, PENSACOLA BEACH, FL 32561": {
+    "display_name": "30 CLL TRAVIESA, PENSACOLA BEACH, FL, 32561",
+    "lat": 30.341419776308,
+    "lon": -87.093506154111,
     "source": "US Census"
   },
   "3818 N 12TH AVE, PENSACOLA, FL 32503": {
@@ -41,6 +53,12 @@
     "lon": -87.379004540541,
     "source": "US Census"
   },
+  "413 FRISCO RD, PERDIDO KEY, FL 32507": {
+    "display_name": "413 FRISCO RD, PENSACOLA, FL, 32507",
+    "lat": 30.406637712326,
+    "lon": -87.267566942803,
+    "source": "US Census"
+  },
   "4315 N 9TH AVE, PENSACOLA, FL 32503": {
     "display_name": "4315 N 9TH AVE, PENSACOLA, FL, 32503",
     "lat": 30.461188033944,
@@ -51,6 +69,12 @@
     "display_name": "4409 HAVRE WAY, PENSACOLA, FL, 32505",
     "lat": 30.451930835163,
     "lon": -87.264580846589,
+    "source": "US Census"
+  },
+  "4506 GUERLAIN WAY, PENSACOLA, FL 32505": {
+    "display_name": "4506 GUERLAIN WAY, PENSACOLA, FL, 32505",
+    "lat": 30.454700954479,
+    "lon": -87.265302129627,
     "source": "US Census"
   },
   "4955 LANETT DR, PENSACOLA, FL 32526": {
