@@ -1,8 +1,20 @@
 {
+  "1004 E JACKSON ST, PENSACOLA, FL 32501": {
+    "display_name": "1004 E JACKSON ST, PENSACOLA, FL, 32501",
+    "lat": 30.421520076858,
+    "lon": -87.205072731172,
+    "source": "US Census"
+  },
   "1007 E FISHER ST, PENSACOLA, FL 32503": {
     "display_name": "1007 E FISHER ST, PENSACOLA, FL, 32503",
     "lat": 30.442202342484,
     "lon": -87.209744424425,
+    "source": "US Census"
+  },
+  "1076 CANDLEWOOD CIR, PENSACOLA, FL 32514": {
+    "display_name": "1076 CANDLEWOOD CIR, PENSACOLA, FL, 32514",
+    "lat": 30.534768594038,
+    "lon": -87.242731417607,
     "source": "US Census"
   },
   "1132 SWEETBRIAR ST, CANTONMENT, FL 32533": {
@@ -117,6 +129,12 @@
     "display_name": "7323 SINGLE TRCE, PENSACOLA, FL, 32526",
     "lat": 30.509203423636,
     "lon": -87.359716064437,
+    "source": "US Census"
+  },
+  "8110 OLD FLOMATON RD, CENTURY, FL 32535": {
+    "display_name": "8110 OLD FLOMATON RD, CENTURY, FL, 32535",
+    "lat": 30.977583385077,
+    "lon": -87.248846666568,
     "source": "US Census"
   },
   "8900 SCENIC HILLS DR, PENSACOLA, FL 32514": {
