@@ -113,6 +113,12 @@
     "lon": -87.209410292893,
     "source": "US Census"
   },
+  "600 W HERNANDEZ ST, PENSACOLA, FL 32501": {
+    "display_name": "600 W HERNANDEZ ST, PENSACOLA, FL, 32501",
+    "lat": 30.432500383457,
+    "lon": -87.226183070697,
+    "source": "US Census"
+  },
   "6034 SECRETARIAT WAY, PENSACOLA, FL 32526": {
     "display_name": "6034 SECRETARIAT WAY, PENSACOLA, FL, 32526",
     "lat": 30.515571066958,
