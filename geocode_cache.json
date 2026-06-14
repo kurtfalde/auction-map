@@ -23,6 +23,12 @@
     "lon": -87.312294802051,
     "source": "US Census"
   },
+  "1217 DEXTER AVE, PERDIDO KEY, FL 32507": {
+    "display_name": "1217 DEXTER AVE, PENSACOLA, FL, 32507",
+    "lat": 30.395194222431,
+    "lon": -87.265944679368,
+    "source": "US Census"
+  },
   "1450 COUNTRY HILLS RD, CANTONMENT, FL 32533": {
     "display_name": "1450 COUNTRY HILLS DR, CANTONMENT, FL, 32533",
     "lat": 30.661119987492,
