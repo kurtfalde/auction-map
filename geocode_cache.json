@@ -35,6 +35,12 @@
     "lon": -87.379784128025,
     "source": "US Census"
   },
+  "1894 W KINGSFIELD RD, CANTONMENT, FL 32533": {
+    "display_name": "1894 W KINGSFIELD RD, CANTONMENT, FL, 32533",
+    "lat": 30.578488710998,
+    "lon": -87.35777319216,
+    "source": "US Census"
+  },
   "2301 W MICHIGAN AVE 14, PENSACOLA, FL 32526": {
     "display_name": "2301 W MICHIGAN AVE, PENSACOLA, FL, 32526",
     "lat": 30.460539142481,
