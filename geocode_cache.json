@@ -35,6 +35,12 @@
     "lon": -87.379784128025,
     "source": "US Census"
   },
+  "151 N GARFIELD, PENSACOLA, FL 32505": {
+    "display_name": "151 N GARFIELD DR, PENSACOLA, FL, 32505",
+    "lat": 30.445599708089,
+    "lon": -87.280905002884,
+    "source": "US Census"
+  },
   "1894 W KINGSFIELD RD, CANTONMENT, FL 32533": {
     "display_name": "1894 W KINGSFIELD RD, CANTONMENT, FL, 32533",
     "lat": 30.578488710998,
