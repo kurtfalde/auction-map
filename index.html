@@ -1,13 +1,13 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Escambia Auction Map — 2026-06-26 to 2026-07-06</title>
+<title>Escambia Auction Map — 2026-06-27 to 2026-07-07</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <style>
 html,body,#map{height:100%;margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif} .top{position:absolute;z-index:999;left:10px;right:10px;top:10px;background:#fff;padding:10px 12px;border-radius:12px;box-shadow:0 2px 12px #0002;max-width:760px} .top h1{font-size:16px;margin:0 0 4px} .top p{font-size:12px;margin:0;color:#444} .popup b{font-size:14px} .popup a{display:inline-block;margin:4px 8px 0 0} .list{position:absolute;z-index:998;right:10px;bottom:18px;max-height:38%;width:min(440px,calc(100vw - 20px));overflow:auto;background:#fff;border-radius:12px;box-shadow:0 2px 12px #0002;padding:8px} .item{padding:8px;border-bottom:1px solid #eee;font-size:13px;cursor:pointer} .item:last-child{border-bottom:0} .item:hover{background:#f4f7fb} @media(max-width:650px){.list{left:10px;right:10px;width:auto;max-height:32%}.top{font-size:12px}}
-</style></head><body><div id="map"></div><div class="top"><h1>Escambia Auction Map — 2026-06-26 to 2026-07-06</h1><p>0 of 0 auctions mapped. Generated 2026-06-26 09:00:40 CDT. Tap pins/list items for links.</p></div><div class="list" id="list"></div>
+</style></head><body><div id="map"></div><div class="top"><h1>Escambia Auction Map — 2026-06-27 to 2026-07-07</h1><p>1 of 2 auctions mapped. Generated 2026-06-27 09:00:25 CDT. Tap pins/list items for links.</p></div><div class="list" id="list"></div>
 <script>
-const auctions = [];
+const auctions = [{"auction_id": "1501351", "lat": 30.491180757195, "lon": -87.187884281847, "geocode_source": "US Census", "geocode_match": "4045 AUDUBON DR, PENSACOLA, FL, 32504", "address": "4045 AUDUBON DR, PENSACOLA, FL 32504", "auction_date": "07/07/2026", "auction_time": "11:00 AM CT", "case_number": "2025 CA 000935", "parcel_id": "101S294107000000", "judgment": "$188,231.63", "assessed_value": "$172,017.00", "detail_url": "https://escambia.realforeclose.com/index.cfm?zaction=auction&zmethod=details&AID=1501351&bypassPage=1", "appraiser_url": "http://www.escpa.org/cama/Detail_a.aspx?s=101S294107000000", "zillow_url": "http://www.zillow.com/homes/map/4045-AUDUBON-DR,PENSACOLA,32504,fl_rb/", "google_url": "https://www.google.com/maps/search/?api=1&query=4045%20AUDUBON%20DR%2C%20PENSACOLA%2C%20FL%2032504"}];
 const map = L.map('map');
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom:19, attribution:'&copy; OpenStreetMap contributors'}).addTo(map);
 const bounds = [], markers = [];
