@@ -17,6 +17,12 @@
     "lon": -87.242731417607,
     "source": "US Census"
   },
+  "111 HIGHWAY 4 WEST 32535, CENTURY, FL 32535": {
+    "display_name": "111 W HWY 4, CENTURY, FL, 32535",
+    "lat": 30.969984211673,
+    "lon": -87.270777198891,
+    "source": "US Census"
+  },
   "1132 SWEETBRIAR ST, CANTONMENT, FL 32533": {
     "display_name": "1132 SWEETBRIAR ST, CANTONMENT, FL, 32533",
     "lat": 30.538723349439,
@@ -59,11 +65,23 @@
     "lon": -87.246913820159,
     "source": "US Census"
   },
+  "250 CHESTNUT ST, PENSACOLA, FL 32506": {
+    "display_name": "250 CHESTNUT ST, PENSACOLA, FL, 32506",
+    "lat": 30.413518047169,
+    "lon": -87.282428074103,
+    "source": "US Census"
+  },
   "30 CALLE TRAVIESA, PENSACOLA BEACH, FL 32561": {
     "display_name": "30 CLL TRAVIESA, PENSACOLA BEACH, FL, 32561",
     "lat": 30.341419776308,
     "lon": -87.093506154111,
     "source": "US Census"
+  },
+  "3307 DR MARTIN LUTHER KING JR": {
+    "display_name": "Dr. Martin Luther King Jr., North Doctor Martin Luther King Junior Drive, Halyard Park, Downtown, Milwaukee, Milwaukee County, Wisconsin, 53201, United States",
+    "lat": 43.0533654,
+    "lon": -87.9141172,
+    "source": "OpenStreetMap/Nominatim"
   },
   "3818 N 12TH AVE, PENSACOLA, FL 32503": {
     "display_name": "3818 N 12TH AVE, PENSACOLA, FL, 32503",
@@ -81,6 +99,12 @@
     "display_name": "4021 SCHIFKO RD, CANTONMENT, FL, 32533",
     "lat": 30.675197427282,
     "lon": -87.379004540541,
+    "source": "US Census"
+  },
+  "403 LAKEVIEW AVE 32533": {
+    "display_name": "403 LAKEVIEW AVE, CANTONMENT, FL, 32533",
+    "lat": 30.618768327083,
+    "lon": -87.332027134511,
     "source": "US Census"
   },
   "4045 AUDUBON DR, PENSACOLA, FL 32504": {
@@ -155,6 +179,12 @@
     "lon": -87.262415405408,
     "source": "US Census"
   },
+  "7115 MOBILE HWY 32526, PENSACOLA, FL 32526": {
+    "display_name": "7115 MOBILE HWY, PENSACOLA, FL, 32526",
+    "lat": 30.494253150885,
+    "lon": -87.326342680765,
+    "source": "US Census"
+  },
   "7246 DOGWOOD TERRACE DR A AND, PENSACOLA, FL 32504": {
     "display_name": "7246 DOGWOOD TERRACE DR, PENSACOLA, FL, 32504",
     "lat": 30.498971043049,
@@ -165,6 +195,37 @@
     "display_name": "7323 SINGLE TRCE, PENSACOLA, FL, 32526",
     "lat": 30.509203423636,
     "lon": -87.359716064437,
+    "source": "US Census"
+  },
+  "7424 STAGECOACH RD, PENSACOLA, FL 32526": {
+    "display_name": "7424 STAGECOACH RD, PENSACOLA, FL, 32526",
+    "lat": 30.503566580753,
+    "lon": -87.349395663014,
+    "source": "US Census"
+  },
+  "7500 BLK WEAVER DR 32534": {
+    "display_name": "7500 WEAVER DR, PENSACOLA, FL, 32534",
+    "lat": 30.505404164826,
+    "lon": -87.279831086892,
+    "source": "US Census"
+  },
+  "7590 BRICKYARD RD 32577": {
+    "display_name": "7590 BRICKYARD RD, MOLINO, FL, 32577",
+    "lat": 30.73588385144,
+    "lon": -87.322849995526,
+    "source": "US Census"
+  },
+  "7655 DAGEN RD 32568, WALNUT HILL, FL 32568": null,
+  "7800 BLK EIGHT MILE CREEK RD 3, PENSACOLA, FL 32526": {
+    "display_name": "7800 EIGHT MILE CREEK RD, PENSACOLA, FL, 32526",
+    "lat": 30.505708000887,
+    "lon": -87.322536527245,
+    "source": "US Census"
+  },
+  "7920 STALLWORTH LN 32526": {
+    "display_name": "7920 STALLWORTH LN, PENSACOLA, FL, 32526",
+    "lat": 30.512640137061,
+    "lon": -87.307471943574,
     "source": "US Census"
   },
   "8110 OLD FLOMATON RD, CENTURY, FL 32535": {
@@ -184,5 +245,6 @@
     "lat": 30.535747612306,
     "lon": -87.236489812239,
     "source": "US Census"
-  }
+  },
+  "PRICE ST 32534, PENSACOLA, FL 32534": null
 }
