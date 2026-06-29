@@ -65,6 +65,12 @@
     "lon": -87.246913820159,
     "source": "US Census"
   },
+  "2423 TRAILWOOD DR, CANTONMENT, FL 32533": {
+    "display_name": "2423 TRAILWOOD DR, CANTONMENT, FL, 32533",
+    "lat": 30.54028000658,
+    "lon": -87.316102909937,
+    "source": "US Census"
+  },
   "250 CHESTNUT ST, PENSACOLA, FL 32506": {
     "display_name": "250 CHESTNUT ST, PENSACOLA, FL, 32506",
     "lat": 30.413518047169,
