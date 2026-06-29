@@ -11,6 +11,18 @@
     "lon": -87.209744424425,
     "source": "US Census"
   },
+  "10560 TARA DAWN CIR, PENSACOLA, FL 32534": {
+    "display_name": "10560 TARA DAWN CIR, PENSACOLA, FL, 32534",
+    "lat": 30.549840328315,
+    "lon": -87.277305565632,
+    "source": "US Census"
+  },
+  "106 PACE PKWY, CANTONMENT, FL 32533": {
+    "display_name": "106 PACE PKWY, CANTONMENT, FL, 32533",
+    "lat": 30.60876342543,
+    "lon": -87.326743924799,
+    "source": "US Census"
+  },
   "1076 CANDLEWOOD CIR, PENSACOLA, FL 32514": {
     "display_name": "1076 CANDLEWOOD CIR, PENSACOLA, FL, 32514",
     "lat": 30.534768594038,
@@ -27,6 +39,12 @@
     "display_name": "1132 SWEETBRIAR ST, CANTONMENT, FL, 32533",
     "lat": 30.538723349439,
     "lon": -87.312294802051,
+    "source": "US Census"
+  },
+  "1211 DEXTER AVE, PERDIDO KEY, FL 32507": {
+    "display_name": "1211 DEXTER AVE, PENSACOLA, FL, 32507",
+    "lat": 30.395237999059,
+    "lon": -87.265790869584,
     "source": "US Census"
   },
   "1217 DEXTER AVE, PERDIDO KEY, FL 32507": {
@@ -53,7 +71,31 @@
     "lon": -87.35777319216,
     "source": "US Census"
   },
+  "1910 E CERVANTES ST, PENSACOLA, FL 32501": {
+    "display_name": "1910 E CERVANTES ST, PENSACOLA, FL, 32501",
+    "lat": 30.425704662752,
+    "lon": -87.19205407534,
+    "source": "US Census"
+  },
+  "2164 CLIFFBROOK AVE, PENSACOLA, FL 32526": {
+    "display_name": "2164 CLIFFBROOK AVE, PENSACOLA, FL, 32526",
+    "lat": 30.499569050998,
+    "lon": -87.294709503182,
+    "source": "US Census"
+  },
+  "2244 VALLE ESCONDIDO DR, PENSACOLA, FL 32526": {
+    "display_name": "2244 VALLEY ESCONDIDO DR, PENSACOLA, FL, 32526",
+    "lat": 30.458000440221,
+    "lon": -87.277587849786,
+    "source": "US Census"
+  },
   "2301 W MICHIGAN AVE 14, PENSACOLA, FL 32526": {
+    "display_name": "2301 W MICHIGAN AVE, PENSACOLA, FL, 32526",
+    "lat": 30.460539142481,
+    "lon": -87.273107904836,
+    "source": "US Census"
+  },
+  "2301 W MICHIGAN AVE 34, PENSACOLA, FL 32526": {
     "display_name": "2301 W MICHIGAN AVE, PENSACOLA, FL, 32526",
     "lat": 30.460539142481,
     "lon": -87.273107904836,
@@ -77,12 +119,19 @@
     "lon": -87.282428074103,
     "source": "US Census"
   },
+  "285 RIVER ANNEX RD, CANTONMENT, FL 32533": {
+    "display_name": "285 RIVER ANNEX RD, CANTONMENT, FL, 32533",
+    "lat": 30.606254023119,
+    "lon": -87.395118292879,
+    "source": "US Census"
+  },
   "30 CALLE TRAVIESA, PENSACOLA BEACH, FL 32561": {
     "display_name": "30 CLL TRAVIESA, PENSACOLA BEACH, FL, 32561",
     "lat": 30.341419776308,
     "lon": -87.093506154111,
     "source": "US Census"
   },
+  "314 W 9 1/2 MILE RD, PENSACOLA, FL 32534": null,
   "3307 DR MARTIN LUTHER KING JR, Pensacola, FL": {
     "display_name": "3307 DR MARTIN LUTHER KING JR DR, PENSACOLA, FL, 32503",
     "lat": 30.44602376461,
@@ -227,6 +276,12 @@
     "lon": -87.279831086892,
     "source": "US Census"
   },
+  "7562 HOWARD DEAN LN, PENSACOLA, FL 32526": {
+    "display_name": "7562 HOWARD DEAN LN, PENSACOLA, FL, 32526",
+    "lat": 30.50917589249,
+    "lon": -87.302804561382,
+    "source": "US Census"
+  },
   "7590 BRICKYARD RD 32577": {
     "display_name": "7590 BRICKYARD RD, MOLINO, FL, 32577",
     "lat": 30.73588385144,
@@ -263,6 +318,12 @@
     "display_name": "8900 SCENIC HILLS DR, PENSACOLA, FL, 32514",
     "lat": 30.5437904493,
     "lon": -87.232039509494,
+    "source": "US Census"
+  },
+  "9 MISSISSIPPI CIR, PENSACOLA, FL 32505": {
+    "display_name": "9 MISSISSIPPI CIR, PENSACOLA, FL, 32505",
+    "lat": 30.437710840607,
+    "lon": -87.273018436194,
     "source": "US Census"
   },
   "9560 SUNNEHANNA B102, PENSACOLA, FL 32514": {
