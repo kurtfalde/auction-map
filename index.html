@@ -150,11 +150,9 @@ weeks.forEach(w => {
 
 function esc(s) { return String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
 
-const fcIcon = L.divIcon({className:'',html:'<div style="width:14px;height:14px;border-radius:50%;background:#2563eb;border:2px solid #fff;box-shadow:0 0 4px #0008"></div>',iconSize:[14,14],iconAnchor:[7,7]}).bindPopup(popup);
-  m.bindPopup(popup);
-});
-
-const allMarkers = markers.slice();
+const fcIcon = L.divIcon({className:'',html:'<div style="width:14px;height:14px;border-radius:50%;background:#2563eb;border:2px solid #fff;box-shadow:0 0 4px #0008"></div>',iconSize:[14,14],iconAnchor:[7,7]});
+const tdIcon = L.divIcon({className:'',html:'<div style="width:14px;height:14px;border-radius:50%;background:#dc2626;border:2px solid #fff;box-shadow:0 0 4px #0008"></div>',iconSize:[14,14],iconAnchor:[7,7]});
+const bounds = [], markers = [], allMarkers = [];
 const list = document.getElementById('list');
 const listTitle = document.getElementById('list-title');
 const countInfo = document.getElementById('count-info');
@@ -185,7 +183,7 @@ function filterWeek() {
     const m = L.marker([a.lat, a.lon], {icon}).addTo(map);
     bounds.push([a.lat, a.lon]);
     markers.push(m);
-
+    allMarkers.push(m);
     const catLabel = a.category === 'taxdeed' ? '<span class="cat-td">TAX DEED</span>' : '<span class="cat-fc">FORECLOSURE</span>';
     const recMap = {"BID":"rec-bid","CAUTION":"rec-caution","NO BID":"rec-nobid","INSUFFICIENT DATA":"rec-nodata"};
     const recClass = recMap[a.bid_rec] || "rec-nodata";
