@@ -83,11 +83,11 @@
     "lon": -87.093506154111,
     "source": "US Census"
   },
-  "3307 DR MARTIN LUTHER KING JR": {
-    "display_name": "Dr. Martin Luther King Jr., North Doctor Martin Luther King Junior Drive, Halyard Park, Downtown, Milwaukee, Milwaukee County, Wisconsin, 53201, United States",
-    "lat": 43.0533654,
-    "lon": -87.9141172,
-    "source": "OpenStreetMap/Nominatim"
+  "3307 DR MARTIN LUTHER KING JR, Pensacola, FL": {
+    "display_name": "3307 DR MARTIN LUTHER KING JR DR, PENSACOLA, FL, 32503",
+    "lat": 30.44602376461,
+    "lon": -87.216767537336,
+    "source": "US Census"
   },
   "3818 N 12TH AVE, PENSACOLA, FL 32503": {
     "display_name": "3818 N 12TH AVE, PENSACOLA, FL, 32503",
@@ -111,6 +111,12 @@
     "display_name": "403 LAKEVIEW AVE, CANTONMENT, FL, 32533",
     "lat": 30.618768327083,
     "lon": -87.332027134511,
+    "source": "US Census"
+  },
+  "403 LAKEVIEW AVE 32533, Pensacola, FL": {
+    "display_name": "403 E LAKEVIEW AVE, PENSACOLA, FL, 32503",
+    "lat": 30.432652102809,
+    "lon": -87.213999001805,
     "source": "US Census"
   },
   "4045 AUDUBON DR, PENSACOLA, FL 32504": {
@@ -215,12 +221,19 @@
     "lon": -87.279831086892,
     "source": "US Census"
   },
+  "7500 BLK WEAVER DR 32534, Pensacola, FL": {
+    "display_name": "7500 WEAVER DR, PENSACOLA, FL, 32534",
+    "lat": 30.505404164826,
+    "lon": -87.279831086892,
+    "source": "US Census"
+  },
   "7590 BRICKYARD RD 32577": {
     "display_name": "7590 BRICKYARD RD, MOLINO, FL, 32577",
     "lat": 30.73588385144,
     "lon": -87.322849995526,
     "source": "US Census"
   },
+  "7590 BRICKYARD RD 32577, Pensacola, FL": null,
   "7655 DAGEN RD 32568, WALNUT HILL, FL 32568": null,
   "7800 BLK EIGHT MILE CREEK RD 3, PENSACOLA, FL 32526": {
     "display_name": "7800 EIGHT MILE CREEK RD, PENSACOLA, FL, 32526",
@@ -229,6 +242,12 @@
     "source": "US Census"
   },
   "7920 STALLWORTH LN 32526": {
+    "display_name": "7920 STALLWORTH LN, PENSACOLA, FL, 32526",
+    "lat": 30.512640137061,
+    "lon": -87.307471943574,
+    "source": "US Census"
+  },
+  "7920 STALLWORTH LN 32526, Pensacola, FL": {
     "display_name": "7920 STALLWORTH LN, PENSACOLA, FL, 32526",
     "lat": 30.512640137061,
     "lon": -87.307471943574,
