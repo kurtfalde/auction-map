@@ -184,6 +184,7 @@ function filterWeek() {
     bounds.push([a.lat, a.lon]);
     markers.push(m);
     allMarkers.push(m);
+    a._marker = m;
     const catLabel = a.category === 'taxdeed' ? '<span class="cat-td">TAX DEED</span>' : '<span class="cat-fc">FORECLOSURE</span>';
     const recMap = {"BID":"rec-bid","CAUTION":"rec-caution","NO BID":"rec-nobid","INSUFFICIENT DATA":"rec-nodata"};
     const recClass = recMap[a.bid_rec] || "rec-nodata";
@@ -197,7 +198,8 @@ function filterWeek() {
   // Rebuild list
   list.innerHTML = '';
   filtered.sort((a,b) => (a.auction_date+a.auction_time+a.address).localeCompare(b.auction_date+b.auction_time+b.address)).forEach((a) => {
-    const i = markers.findIndex(m => m.getLatLng().lat === a.lat && m.getLatLng().lng === a.lon);
+    const idx = filtered.indexOf(a);
+    const m = markers[idx];
     const catTag = a.category === 'taxdeed' ? '<span class="cat-tag cat-td">TD</span>' : '<span class="cat-tag cat-fc">FC</span>';
     const recTagCls = recTagMap[a.bid_rec] || "rec-tag-nodata";
     const recTagText = a.bid_rec === "BID" ? "BID" : a.bid_rec === "CAUTION" ? "CAUTION" : a.bid_rec === "NO BID" ? "NO BID" : "?";
@@ -206,7 +208,7 @@ function filterWeek() {
     const zestStr = a.zestimate ? 'Zestimate $' + a.zestimate.toLocaleString() : (a.rent_zestimate ? 'Rent $' + a.rent_zestimate.toLocaleString() + '/mo' : '—');
     const d = document.createElement('div'); d.className = 'item';
     d.innerHTML = `<span class="date">${esc(a.auction_date)}</span>${catTag}${recTag}<br><span class="addr">${esc(a.address)}</span><br><span class="info">Min $${esc(a.starting_bid || a.judgment || '—')} / $${zestStr}${ratioStr}</span>`;
-    d.onclick = () => { map.setView([a.lat, a.lon], 16); if (markers[i]) markers[i].openPopup(); };
+    d.onclick = () => { map.setView([a.lat, a.lon], 16); if (a._marker) a._marker.openPopup(); };
     list.appendChild(d);
   });
 
