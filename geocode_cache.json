@@ -11,6 +11,7 @@
     "lon": -87.209744424425,
     "source": "US Census"
   },
+  "1030 JOJO RD 32514, Pensacola, FL": null,
   "10560 TARA DAWN CIR, PENSACOLA, FL 32534": {
     "display_name": "10560 TARA DAWN CIR, PENSACOLA, FL, 32534",
     "lat": 30.549840328315,
@@ -63,6 +64,12 @@
     "display_name": "151 N GARFIELD DR, PENSACOLA, FL, 32505",
     "lat": 30.445599708089,
     "lon": -87.280905002884,
+    "source": "US Census"
+  },
+  "1608 SAXON ST 32505, Pensacola, FL": {
+    "display_name": "1608 SAXON ST, PENSACOLA, FL, 32505",
+    "lat": 30.49113637706,
+    "lon": -87.281374936911,
     "source": "US Census"
   },
   "1894 W KINGSFIELD RD, CANTONMENT, FL 32533": {
@@ -138,10 +145,22 @@
     "lon": -87.216767537336,
     "source": "US Census"
   },
+  "3545 CREIGHTON RD 32504, Pensacola, FL": {
+    "display_name": "3545 CREIGHTON RD, PENSACOLA, FL, 32504",
+    "lat": 30.499780585966,
+    "lon": -87.177662804453,
+    "source": "US Census"
+  },
   "3818 N 12TH AVE, PENSACOLA, FL 32503": {
     "display_name": "3818 N 12TH AVE, PENSACOLA, FL, 32503",
     "lat": 30.455902624246,
     "lon": -87.209880568181,
+    "source": "US Census"
+  },
+  "401 ACTION ST 32514, Pensacola, FL": {
+    "display_name": "401 ACTION ST, PENSACOLA, FL, 32514",
+    "lat": 30.519655065709,
+    "lon": -87.253756545468,
     "source": "US Census"
   },
   "4019 N 8TH AVE, PENSACOLA, FL 32503": {
@@ -180,6 +199,12 @@
     "lon": -87.267566942803,
     "source": "US Census"
   },
+  "414 TWIN LAKES DR 32504, Pensacola, FL": {
+    "display_name": "414 TWIN LAKES DR, PENSACOLA, FL, 32504",
+    "lat": 30.497997969342,
+    "lon": -87.235177409878,
+    "source": "US Census"
+  },
   "4315 N 9TH AVE, PENSACOLA, FL 32503": {
     "display_name": "4315 N 9TH AVE, PENSACOLA, FL, 32503",
     "lat": 30.461188033944,
@@ -210,6 +235,18 @@
     "lon": -87.259335926844,
     "source": "US Census"
   },
+  "5607 DUVAL ST 32503, Pensacola, FL": {
+    "display_name": "5607 DUVAL ST, PENSACOLA, FL, 32503",
+    "lat": 30.479262250395,
+    "lon": -87.227647863098,
+    "source": "US Census"
+  },
+  "5613 DUVAL ST 32503, Pensacola, FL": {
+    "display_name": "5613 DUVAL ST, PENSACOLA, FL, 32503",
+    "lat": 30.479379784679,
+    "lon": -87.227707936168,
+    "source": "US Census"
+  },
   "5790 LINN AVE, PERDIDO KEY, FL 32507": {
     "display_name": "5790 LINN AVE, PENSACOLA, FL, 32507",
     "lat": 30.313874605611,
@@ -232,6 +269,12 @@
     "display_name": "6034 SECRETARIAT WAY, PENSACOLA, FL, 32526",
     "lat": 30.515571066958,
     "lon": -87.360789559462,
+    "source": "US Census"
+  },
+  "6260 KIRSTEN DR 32504, Pensacola, FL": {
+    "display_name": "6260 KIRSTEN DR, PENSACOLA, FL, 32504",
+    "lat": 30.486251173371,
+    "lon": -87.186128761429,
     "source": "US Census"
   },
   "7051 PENSACOLA BLVD, PENSACOLA, FL 32505": {
@@ -264,6 +307,12 @@
     "lon": -87.349395663014,
     "source": "US Census"
   },
+  "7490 SCHWAB DR 32504, Pensacola, FL": {
+    "display_name": "7490 SCHWAB DR, PENSACOLA, FL, 32504",
+    "lat": 30.502140444125,
+    "lon": -87.200443636893,
+    "source": "US Census"
+  },
   "7500 BLK WEAVER DR 32534": {
     "display_name": "7500 WEAVER DR, PENSACOLA, FL, 32534",
     "lat": 30.505404164826,
@@ -290,6 +339,12 @@
   },
   "7590 BRICKYARD RD 32577, Pensacola, FL": null,
   "7655 DAGEN RD 32568, WALNUT HILL, FL 32568": null,
+  "7661 WOOD STREAM DR 32514, Pensacola, FL": {
+    "display_name": "7661 WOOD STREAM DR, PENSACOLA, FL, 32514",
+    "lat": 30.503802589243,
+    "lon": -87.18013026759,
+    "source": "US Census"
+  },
   "7800 BLK EIGHT MILE CREEK RD 3, PENSACOLA, FL 32526": {
     "display_name": "7800 EIGHT MILE CREEK RD, PENSACOLA, FL, 32526",
     "lat": 30.505708000887,
