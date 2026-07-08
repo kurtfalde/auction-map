@@ -11,6 +11,18 @@
     "lon": -87.209744424425,
     "source": "US Census"
   },
+  "1014 BARNETT ST, PENSACOLA, FL 32505": {
+    "display_name": "1014 BARNETT ST, PENSACOLA, FL, 32505",
+    "lat": 30.468269444983,
+    "lon": -87.245351181677,
+    "source": "US Census"
+  },
+  "102 EMERALD AVE, PENSACOLA, FL 32505": {
+    "display_name": "102 EMERALD AVE, PENSACOLA, FL, 32505",
+    "lat": 30.438020780928,
+    "lon": -87.265607840442,
+    "source": "US Census"
+  },
   "1030 JOJO RD 32514, Pensacola, FL": null,
   "10560 TARA DAWN CIR, PENSACOLA, FL 32534": {
     "display_name": "10560 TARA DAWN CIR, PENSACOLA, FL, 32534",
@@ -52,6 +64,12 @@
     "display_name": "1217 DEXTER AVE, PENSACOLA, FL, 32507",
     "lat": 30.395194222431,
     "lon": -87.265944679368,
+    "source": "US Census"
+  },
+  "126 MINTZ LN, CANTONMENT, FL 32533": {
+    "display_name": "126 MINTZ LN, CANTONMENT, FL, 32533",
+    "lat": 30.61001328073,
+    "lon": -87.326381271089,
     "source": "US Census"
   },
   "1450 COUNTRY HILLS RD, CANTONMENT, FL 32533": {
@@ -126,6 +144,12 @@
     "lon": -87.282428074103,
     "source": "US Census"
   },
+  "2617 LEONARD ST, PENSACOLA, FL 32505": {
+    "display_name": "2617 W LEONARD ST, PENSACOLA, FL, 32505",
+    "lat": 30.4420603065,
+    "lon": -87.245813712335,
+    "source": "US Census"
+  },
   "285 RIVER ANNEX RD, CANTONMENT, FL 32533": {
     "display_name": "285 RIVER ANNEX RD, CANTONMENT, FL, 32533",
     "lat": 30.606254023119,
@@ -143,6 +167,12 @@
     "display_name": "3307 DR MARTIN LUTHER KING JR DR, PENSACOLA, FL, 32503",
     "lat": 30.44602376461,
     "lon": -87.216767537336,
+    "source": "US Census"
+  },
+  "352 ARABIAN CIR, PENSACOLA, FL 32506": {
+    "display_name": "352 ARABIAN CIR, PENSACOLA, FL, 32506",
+    "lat": 30.406662889125,
+    "lon": -87.306159468559,
     "source": "US Census"
   },
   "3545 CREIGHTON RD 32504, Pensacola, FL": {
@@ -173,6 +203,12 @@
     "display_name": "4021 SCHIFKO RD, CANTONMENT, FL, 32533",
     "lat": 30.675197427282,
     "lon": -87.379004540541,
+    "source": "US Census"
+  },
+  "4025 CONNELL DR, PENSACOLA, FL 32503": {
+    "display_name": "4025 CONNELL DR, PENSACOLA, FL, 32503",
+    "lat": 30.457067545422,
+    "lon": -87.192355683757,
     "source": "US Census"
   },
   "403 LAKEVIEW AVE 32533": {
@@ -229,6 +265,12 @@
     "lon": -87.312437171763,
     "source": "US Census"
   },
+  "505 IVES PL, PENSACOLA, FL 32514": {
+    "display_name": "505 IVES PL, PENSACOLA, FL, 32514",
+    "lat": 30.516460299508,
+    "lon": -87.248640309233,
+    "source": "US Census"
+  },
   "535 BOYETTE ST, PENSACOLA, FL 32514": {
     "display_name": "535 BOYETTE ST, PENSACOLA, FL, 32514",
     "lat": 30.542392907479,
@@ -275,6 +317,12 @@
     "display_name": "6260 KIRSTEN DR, PENSACOLA, FL, 32504",
     "lat": 30.486251173371,
     "lon": -87.186128761429,
+    "source": "US Census"
+  },
+  "6727 LAKE JOANNE DR, PENSACOLA, FL 32506": {
+    "display_name": "6727 LAKE JOANNE DR, PENSACOLA, FL, 32506",
+    "lat": 30.402578852517,
+    "lon": -87.302304620218,
     "source": "US Census"
   },
   "7051 PENSACOLA BLVD, PENSACOLA, FL 32505": {
@@ -367,6 +415,12 @@
     "display_name": "8110 OLD FLOMATON RD, CENTURY, FL, 32535",
     "lat": 30.977583385077,
     "lon": -87.248846666568,
+    "source": "US Census"
+  },
+  "8831 FIGLAND AVE, PENSACOLA, FL 32534": {
+    "display_name": "8831 FIGLAND AVE, PENSACOLA, FL, 32534",
+    "lat": 30.525993194302,
+    "lon": -87.277618936055,
     "source": "US Census"
   },
   "8900 SCENIC HILLS DR, PENSACOLA, FL 32514": {
