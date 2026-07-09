@@ -90,6 +90,12 @@
     "lon": -87.281374936911,
     "source": "US Census"
   },
+  "1828 NESTLE DR, PENSACOLA, FL 32534": {
+    "display_name": "1828 NESTLE DR, PENSACOLA, FL, 32534",
+    "lat": 30.521673778917,
+    "lon": -87.297914191844,
+    "source": "US Census"
+  },
   "1894 W KINGSFIELD RD, CANTONMENT, FL 32533": {
     "display_name": "1894 W KINGSFIELD RD, CANTONMENT, FL, 32533",
     "lat": 30.578488710998,
@@ -415,6 +421,12 @@
     "display_name": "8110 OLD FLOMATON RD, CENTURY, FL, 32535",
     "lat": 30.977583385077,
     "lon": -87.248846666568,
+    "source": "US Census"
+  },
+  "8370 CARL DEAN ST 112 32514, Pensacola, FL": {
+    "display_name": "8370 CARL DEAN ST, PENSACOLA, FL, 32514",
+    "lat": 30.514820851696,
+    "lon": -87.208383633776,
     "source": "US Census"
   },
   "8831 FIGLAND AVE, PENSACOLA, FL 32534": {
