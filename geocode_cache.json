@@ -36,6 +36,12 @@
     "lon": -87.326743924799,
     "source": "US Census"
   },
+  "1060 COBBLESTONE DR, PENSACOLA, FL 32514": {
+    "display_name": "1060 COBBLESTONE DR, PENSACOLA, FL, 32514",
+    "lat": 30.544801184914,
+    "lon": -87.24635313276,
+    "source": "US Census"
+  },
   "1076 CANDLEWOOD CIR, PENSACOLA, FL 32514": {
     "display_name": "1076 CANDLEWOOD CIR, PENSACOLA, FL, 32514",
     "lat": 30.534768594038,
@@ -265,6 +271,12 @@
     "lon": -87.265302129627,
     "source": "US Census"
   },
+  "4508 CHARMONTE WAY, PENSACOLA, FL 32505": {
+    "display_name": "4508 CHARMONTE WAY, PENSACOLA, FL, 32505",
+    "lat": 30.456469596435,
+    "lon": -87.262682863403,
+    "source": "US Census"
+  },
   "4955 LANETT DR, PENSACOLA, FL 32526": {
     "display_name": "4955 LANETT DR, PENSACOLA, FL, 32526",
     "lat": 30.455730969337,
@@ -275,6 +287,12 @@
     "display_name": "505 IVES PL, PENSACOLA, FL, 32514",
     "lat": 30.516460299508,
     "lon": -87.248640309233,
+    "source": "US Census"
+  },
+  "523 BAYLISS CT, PENSACOLA, FL 32505": {
+    "display_name": "523 BAYLISS CT, PENSACOLA, FL, 32505",
+    "lat": 30.456380930793,
+    "lon": -87.250721382182,
     "source": "US Census"
   },
   "535 BOYETTE ST, PENSACOLA, FL 32514": {
@@ -329,6 +347,12 @@
     "display_name": "6727 LAKE JOANNE DR, PENSACOLA, FL, 32506",
     "lat": 30.402578852517,
     "lon": -87.302304620218,
+    "source": "US Census"
+  },
+  "683 CHADWICK ST, PENSACOLA, FL 32503": {
+    "display_name": "683 CHADWICK ST, PENSACOLA, FL, 32503",
+    "lat": 30.465191281797,
+    "lon": -87.217626902935,
     "source": "US Census"
   },
   "7051 PENSACOLA BLVD, PENSACOLA, FL 32505": {
