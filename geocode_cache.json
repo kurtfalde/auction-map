@@ -78,6 +78,12 @@
     "lon": -87.326381271089,
     "source": "US Census"
   },
+  "1307 N 8TH AVE, PENSACOLA, FL 32503": {
+    "display_name": "1307 N 8TH AVE, PENSACOLA, FL, 32503",
+    "lat": 30.427688507746,
+    "lon": -87.209293740341,
+    "source": "US Census"
+  },
   "1450 COUNTRY HILLS RD, CANTONMENT, FL 32533": {
     "display_name": "1450 COUNTRY HILLS DR, CANTONMENT, FL, 32533",
     "lat": 30.661119987492,
@@ -112,6 +118,12 @@
     "display_name": "1910 E CERVANTES ST, PENSACOLA, FL, 32501",
     "lat": 30.425704662752,
     "lon": -87.19205407534,
+    "source": "US Census"
+  },
+  "2149 YARDLEY CIR, PENSACOLA, FL 32526": {
+    "display_name": "2149 YARDLEY CIR, PENSACOLA, FL, 32526",
+    "lat": 30.467847174544,
+    "lon": -87.277311141633,
     "source": "US Census"
   },
   "2164 CLIFFBROOK AVE, PENSACOLA, FL 32526": {
@@ -199,6 +211,12 @@
     "lon": -87.177662804453,
     "source": "US Census"
   },
+  "3551 RIDGECREST LN, CANTONMENT, FL 32533": {
+    "display_name": "3551 RIDGECREST LN, CANTONMENT, FL, 32533",
+    "lat": 30.668151250054,
+    "lon": -87.353673694299,
+    "source": "US Census"
+  },
   "3818 N 12TH AVE, PENSACOLA, FL 32503": {
     "display_name": "3818 N 12TH AVE, PENSACOLA, FL, 32503",
     "lat": 30.455902624246,
@@ -263,6 +281,12 @@
     "display_name": "414 TWIN LAKES DR, PENSACOLA, FL, 32504",
     "lat": 30.497997969342,
     "lon": -87.235177409878,
+    "source": "US Census"
+  },
+  "4239 SPANISH TRL, PENSACOLA, FL 32504": {
+    "display_name": "4239 SPANISH TRL, PENSACOLA, FL, 32504",
+    "lat": 30.467677196491,
+    "lon": -87.175550582397,
     "source": "US Census"
   },
   "4315 N 9TH AVE, PENSACOLA, FL 32503": {
@@ -343,6 +367,12 @@
     "lon": -87.226183070697,
     "source": "US Census"
   },
+  "6000 ROCKAWAY CREEK RD, WALNUT HILL, FL 32568": {
+    "display_name": "6000 ROCKAWAY CREEK RD, WALNUT HILL, FL, 32568",
+    "lat": 30.979631013213,
+    "lon": -87.516215343085,
+    "source": "US Census"
+  },
   "6034 SECRETARIAT WAY, PENSACOLA, FL 32526": {
     "display_name": "6034 SECRETARIAT WAY, PENSACOLA, FL, 32526",
     "lat": 30.515571066958,
@@ -353,6 +383,12 @@
     "display_name": "6260 KIRSTEN DR, PENSACOLA, FL, 32504",
     "lat": 30.486251173371,
     "lon": -87.186128761429,
+    "source": "US Census"
+  },
+  "6510 ROCKAWAY CREEK RD, WALNUT HILL, FL 32568": {
+    "display_name": "6510 ROCKAWAY CREEK RD, WALNUT HILL, FL, 32568",
+    "lat": 30.981945511768,
+    "lon": -87.516170989495,
     "source": "US Census"
   },
   "6727 LAKE JOANNE DR, PENSACOLA, FL 32506": {
@@ -447,6 +483,12 @@
     "lon": -87.322536527245,
     "source": "US Census"
   },
+  "7875 HERRINGTON DR, PENSACOLA, FL 32534": {
+    "display_name": "7875 HERRINGTON DR, PENSACOLA, FL, 32534",
+    "lat": 30.511279571714,
+    "lon": -87.285519572642,
+    "source": "US Census"
+  },
   "7920 STALLWORTH LN 32526": {
     "display_name": "7920 STALLWORTH LN, PENSACOLA, FL, 32526",
     "lat": 30.512640137061,
@@ -493,6 +535,18 @@
     "display_name": "9 MISSISSIPPI CIR, PENSACOLA, FL, 32505",
     "lat": 30.437710840607,
     "lon": -87.273018436194,
+    "source": "US Census"
+  },
+  "921 W HOPE DR 32534, PENSACOLA, FL 32534": {
+    "display_name": "921 W HOPE DR, PENSACOLA, FL, 32534",
+    "lat": 30.507025682324,
+    "lon": -87.271053165112,
+    "source": "US Census"
+  },
+  "953 CHESAPEAKE TRL, CANTONMENT, FL 32533": {
+    "display_name": "953 CHESAPEAKE TRL, CANTONMENT, FL, 32533",
+    "lat": 30.603310935298,
+    "lon": -87.349891179728,
     "source": "US Census"
   },
   "9560 SUNNEHANNA B102, PENSACOLA, FL 32514": {
