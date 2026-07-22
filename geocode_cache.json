@@ -17,6 +17,12 @@
     "lon": -87.245351181677,
     "source": "US Census"
   },
+  "1015 LOVEBIRD CT, PENSACOLA, FL 32534": {
+    "display_name": "1015 LOVEBIRD CT, PENSACOLA, FL, 32534",
+    "lat": 30.523741170993,
+    "lon": -87.281418623566,
+    "source": "US Census"
+  },
   "102 EMERALD AVE, PENSACOLA, FL 32505": {
     "display_name": "102 EMERALD AVE, PENSACOLA, FL, 32505",
     "lat": 30.438020780928,
