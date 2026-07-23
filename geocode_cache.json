@@ -525,6 +525,12 @@
     "lon": -87.17466697893,
     "source": "US Census"
   },
+  "8700 FOWLER AVE 9 32534, PENSACOLA, FL 32534": {
+    "display_name": "8700 FOWLER AVE, PENSACOLA, FL, 32534",
+    "lat": 30.524522582866,
+    "lon": -87.283907383427,
+    "source": "US Census"
+  },
   "8831 FIGLAND AVE, PENSACOLA, FL 32534": {
     "display_name": "8831 FIGLAND AVE, PENSACOLA, FL, 32534",
     "lat": 30.525993194302,
