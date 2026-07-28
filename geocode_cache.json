@@ -84,6 +84,12 @@
     "lon": -87.326381271089,
     "source": "US Census"
   },
+  "1281 BASIN ST 32534, PENSACOLA, FL 32534": {
+    "display_name": "1281 BASIN ST, PENSACOLA, FL, 32534",
+    "lat": 30.507220228651,
+    "lon": -87.281109920258,
+    "source": "US Census"
+  },
   "1307 N 8TH AVE, PENSACOLA, FL 32503": {
     "display_name": "1307 N 8TH AVE, PENSACOLA, FL, 32503",
     "lat": 30.427688507746,
@@ -124,6 +130,12 @@
     "display_name": "1910 E CERVANTES ST, PENSACOLA, FL, 32501",
     "lat": 30.425704662752,
     "lon": -87.19205407534,
+    "source": "US Census"
+  },
+  "1955 GARY CIR, PENSACOLA, FL 32505": {
+    "display_name": "1955 GARY CIR, PENSACOLA, FL, 32505",
+    "lat": 30.433086102987,
+    "lon": -87.255605430753,
     "source": "US Census"
   },
   "2149 YARDLEY CIR, PENSACOLA, FL 32526": {
@@ -295,6 +307,12 @@
     "lon": -87.175550582397,
     "source": "US Census"
   },
+  "4240 CHERRY LAUREL DR, PENSACOLA, FL 32504": {
+    "display_name": "4240 CHERRY LAUREL DR, PENSACOLA, FL, 32504",
+    "lat": 30.488230020473,
+    "lon": -87.170371601077,
+    "source": "US Census"
+  },
   "4315 N 9TH AVE, PENSACOLA, FL 32503": {
     "display_name": "4315 N 9TH AVE, PENSACOLA, FL, 32503",
     "lat": 30.461188033944,
@@ -305,6 +323,12 @@
     "display_name": "4409 HAVRE WAY, PENSACOLA, FL, 32505",
     "lat": 30.451930835163,
     "lon": -87.264580846589,
+    "source": "US Census"
+  },
+  "4505 CREEKMORE ST, PENSACOLA, FL 32505": {
+    "display_name": "4505 CREEKMORE ST, PENSACOLA, FL, 32505",
+    "lat": 30.447554801482,
+    "lon": -87.283978143667,
     "source": "US Census"
   },
   "4506 GUERLAIN WAY, PENSACOLA, FL 32505": {
@@ -385,10 +409,22 @@
     "lon": -87.360789559462,
     "source": "US Census"
   },
+  "6225 LUTHER ST, PENSACOLA, FL 32503": {
+    "display_name": "6225 LUTHER ST, PENSACOLA, FL, 32503",
+    "lat": 30.484257649473,
+    "lon": -87.234483845091,
+    "source": "US Census"
+  },
   "6260 KIRSTEN DR 32504, Pensacola, FL": {
     "display_name": "6260 KIRSTEN DR, PENSACOLA, FL, 32504",
     "lat": 30.486251173371,
     "lon": -87.186128761429,
+    "source": "US Census"
+  },
+  "638 WILD HERON WAY, PENSACOLA, FL 32506": {
+    "display_name": "638 WILD HERON WAY, PENSACOLA, FL, 32506",
+    "lat": 30.400727355191,
+    "lon": -87.378954777094,
     "source": "US Census"
   },
   "6510 ROCKAWAY CREEK RD, WALNUT HILL, FL 32568": {
@@ -419,6 +455,12 @@
     "display_name": "7115 MOBILE HWY, PENSACOLA, FL, 32526",
     "lat": 30.494253150885,
     "lon": -87.326342680765,
+    "source": "US Census"
+  },
+  "719 CROOKED OAK DR, PENSACOLA, FL 32514": {
+    "display_name": "719 CROOKED OAK DR, PENSACOLA, FL, 32514",
+    "lat": 30.558762065926,
+    "lon": -87.260951327079,
     "source": "US Census"
   },
   "7198 TIPPIN AVE, PENSACOLA, FL 32504": {
@@ -541,6 +583,12 @@
     "display_name": "8900 SCENIC HILLS DR, PENSACOLA, FL, 32514",
     "lat": 30.5437904493,
     "lon": -87.232039509494,
+    "source": "US Census"
+  },
+  "8916 CHEMSTRAND RD 5 32514, PENSACOLA, FL 32514": {
+    "display_name": "8916 CHEMSTRAND RD, PENSACOLA, FL, 32514",
+    "lat": 30.526341064114,
+    "lon": -87.262558404837,
     "source": "US Census"
   },
   "9 MISSISSIPPI CIR, PENSACOLA, FL 32505": {
