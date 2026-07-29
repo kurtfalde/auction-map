@@ -138,6 +138,12 @@
     "lon": -87.255605430753,
     "source": "US Census"
   },
+  "208 FAIRFAX DR, PENSACOLA, FL 32503": {
+    "display_name": "208 FAIRFAX DR, PENSACOLA, FL, 32503",
+    "lat": 30.45149744876,
+    "lon": -87.21494661672,
+    "source": "US Census"
+  },
   "2149 YARDLEY CIR, PENSACOLA, FL 32526": {
     "display_name": "2149 YARDLEY CIR, PENSACOLA, FL, 32526",
     "lat": 30.467847174544,
@@ -547,6 +553,12 @@
     "display_name": "7920 STALLWORTH LN, PENSACOLA, FL, 32526",
     "lat": 30.512640137061,
     "lon": -87.307471943574,
+    "source": "US Census"
+  },
+  "7941 REGIMENT DR 32534, PENSACOLA, FL 32534": {
+    "display_name": "7941 REGIMENT DR, PENSACOLA, FL, 32534",
+    "lat": 30.512478890267,
+    "lon": -87.274735289092,
     "source": "US Census"
   },
   "8110 OLD FLOMATON RD, CENTURY, FL 32535": {
