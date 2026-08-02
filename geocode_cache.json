@@ -48,6 +48,12 @@
     "lon": -87.24635313276,
     "source": "US Census"
   },
+  "10649 SENEGAL DR, PENSACOLA, FL 32534": {
+    "display_name": "10649 SENEGAL DR, PENSACOLA, FL, 32534",
+    "lat": 30.557094123763,
+    "lon": -87.28172727955,
+    "source": "US Census"
+  },
   "1076 CANDLEWOOD CIR, PENSACOLA, FL 32514": {
     "display_name": "1076 CANDLEWOOD CIR, PENSACOLA, FL, 32514",
     "lat": 30.534768594038,
@@ -126,6 +132,7 @@
     "lon": -87.297914191844,
     "source": "US Census"
   },
+  "1828 SUNSET MAPLE RD, CANTONMENT, FL 32533": null,
   "1894 W KINGSFIELD RD, CANTONMENT, FL 32533": {
     "display_name": "1894 W KINGSFIELD RD, CANTONMENT, FL, 32533",
     "lat": 30.578488710998,
@@ -577,6 +584,12 @@
     "display_name": "8110 OLD FLOMATON RD, CENTURY, FL, 32535",
     "lat": 30.977583385077,
     "lon": -87.248846666568,
+    "source": "US Census"
+  },
+  "829 LUCERNE AVE, PENSACOLA, FL 32505": {
+    "display_name": "829 LUCERNE AVE, PENSACOLA, FL, 32505",
+    "lat": 30.462879667209,
+    "lon": -87.258944133144,
     "source": "US Census"
   },
   "8370 CARL DEAN ST 112 32514, Pensacola, FL": {
