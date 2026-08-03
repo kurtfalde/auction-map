@@ -223,10 +223,22 @@
     "lon": -87.395118292879,
     "source": "US Census"
   },
+  "2944 MICHAEL DR 32505, Pensacola, FL": {
+    "display_name": "2944 MICHAEL DR, PENSACOLA, FL, 32505",
+    "lat": 30.448518369264,
+    "lon": -87.251344604959,
+    "source": "US Census"
+  },
   "30 CALLE TRAVIESA, PENSACOLA BEACH, FL 32561": {
     "display_name": "30 CLL TRAVIESA, PENSACOLA BEACH, FL, 32561",
     "lat": 30.341419776308,
     "lon": -87.093506154111,
+    "source": "US Census"
+  },
+  "3000 N GUILLEMARD ST 32503, Pensacola, FL": {
+    "display_name": "3000 N GUILLEMARD ST, PENSACOLA, FL, 32503",
+    "lat": 30.442806350202,
+    "lon": -87.222136757947,
     "source": "US Census"
   },
   "314 W 9 1/2 MILE RD, PENSACOLA, FL 32534": null,
@@ -266,6 +278,18 @@
     "lon": -87.338559258525,
     "source": "US Census"
   },
+  "3915 COONS AVE 32505, Pensacola, FL": {
+    "display_name": "3915 COONS AVE, PENSACOLA, FL, 32505",
+    "lat": 30.454516290719,
+    "lon": -87.248871206044,
+    "source": "US Census"
+  },
+  "4007 N W ST 32505, Pensacola, FL": {
+    "display_name": "North W Street, Pensacola, Escambia County, Florida, 32505, United States",
+    "lat": 30.4153044,
+    "lon": -87.2507004,
+    "source": "OpenStreetMap/Nominatim"
+  },
   "401 ACTION ST 32514, Pensacola, FL": {
     "display_name": "401 ACTION ST, PENSACOLA, FL, 32514",
     "lat": 30.519655065709,
@@ -294,6 +318,12 @@
     "display_name": "4025 CONNELL DR, PENSACOLA, FL, 32503",
     "lat": 30.457067545422,
     "lon": -87.192355683757,
+    "source": "US Census"
+  },
+  "4026 N 8TH AVE 32503, Pensacola, FL": {
+    "display_name": "4026 N 8TH AVE, PENSACOLA, FL, 32503",
+    "lat": 30.455382043291,
+    "lon": -87.216213672217,
     "source": "US Census"
   },
   "403 LAKEVIEW AVE 32533": {
@@ -350,6 +380,12 @@
     "lon": -87.264580846589,
     "source": "US Census"
   },
+  "4479 ROCHELLE DR 32505, Pensacola, FL": {
+    "display_name": "4479 ROCHELLE DR, PENSACOLA, FL, 32505",
+    "lat": 30.454769959857,
+    "lon": -87.25709515953,
+    "source": "US Census"
+  },
   "4505 CREEKMORE ST, PENSACOLA, FL 32505": {
     "display_name": "4505 CREEKMORE ST, PENSACOLA, FL, 32505",
     "lat": 30.447554801482,
@@ -366,6 +402,18 @@
     "display_name": "4508 CHARMONTE WAY, PENSACOLA, FL, 32505",
     "lat": 30.456469596435,
     "lon": -87.262682863403,
+    "source": "US Census"
+  },
+  "4508 HAVRE WAY 32505, Pensacola, FL": {
+    "display_name": "4508 HAVRE WAY, PENSACOLA, FL, 32505",
+    "lat": 30.454303190342,
+    "lon": -87.265999632012,
+    "source": "US Census"
+  },
+  "4520 LANDES DR 32505, Pensacola, FL": {
+    "display_name": "4520 LANDES DR, PENSACOLA, FL, 32505",
+    "lat": 30.458757577918,
+    "lon": -87.258389856664,
     "source": "US Census"
   },
   "4955 LANETT DR, PENSACOLA, FL 32526": {
@@ -580,6 +628,12 @@
     "lon": -87.274735289092,
     "source": "US Census"
   },
+  "801 BARCIA DR 32503, Pensacola, FL": {
+    "display_name": "801 BARCIA DR, PENSACOLA, FL, 32503",
+    "lat": 30.449706722024,
+    "lon": -87.214418469627,
+    "source": "US Census"
+  },
   "8110 OLD FLOMATON RD, CENTURY, FL 32535": {
     "display_name": "8110 OLD FLOMATON RD, CENTURY, FL, 32535",
     "lat": 30.977583385077,
@@ -634,6 +688,12 @@
     "lon": -87.273018436194,
     "source": "US Census"
   },
+  "906 MONTCLAIR RD 32505, Pensacola, FL": {
+    "display_name": "906 MONTCLAIR RD, PENSACOLA, FL, 32505",
+    "lat": 30.459510437422,
+    "lon": -87.262263154816,
+    "source": "US Census"
+  },
   "921 W HOPE DR 32534, PENSACOLA, FL 32534": {
     "display_name": "921 W HOPE DR, PENSACOLA, FL, 32534",
     "lat": 30.507025682324,
@@ -644,6 +704,12 @@
     "display_name": "953 CHESAPEAKE TRL, CANTONMENT, FL, 32533",
     "lat": 30.603310935298,
     "lon": -87.349891179728,
+    "source": "US Census"
+  },
+  "9544 PEBBLE STONE DR, PENSACOLA, FL 32526": {
+    "display_name": "9544 PEBBLE STONE DR, PENSACOLA, FL, 32526",
+    "lat": 30.54009258951,
+    "lon": -87.412840347235,
     "source": "US Census"
   },
   "9560 SUNNEHANNA B102, PENSACOLA, FL 32514": {
