@@ -11,6 +11,12 @@
     "lon": -87.209744424425,
     "source": "US Census"
   },
+  "1013 RACHEL CIR, CANTONMENT, FL 32533": {
+    "display_name": "1013 RACHEL CIR, CANTONMENT, FL, 32533",
+    "lat": 30.591227013466,
+    "lon": -87.300809374541,
+    "source": "US Census"
+  },
   "1014 BARNETT ST, PENSACOLA, FL 32505": {
     "display_name": "1014 BARNETT ST, PENSACOLA, FL, 32505",
     "lat": 30.468269444983,
