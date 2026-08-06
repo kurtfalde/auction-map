@@ -181,6 +181,12 @@
     "lon": -87.277587849786,
     "source": "US Census"
   },
+  "2248 BOXFORD CT, PERDIDO KEY, FL 32507": {
+    "display_name": "2248 BOXFORD CT, PENSACOLA, FL, 32507",
+    "lat": 30.375940887367,
+    "lon": -87.334819835401,
+    "source": "US Census"
+  },
   "2301 W MICHIGAN AVE 14, PENSACOLA, FL 32526": {
     "display_name": "2301 W MICHIGAN AVE, PENSACOLA, FL, 32526",
     "lat": 30.460539142481,
