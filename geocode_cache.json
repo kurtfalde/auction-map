@@ -253,6 +253,12 @@
     "lon": -87.222136757947,
     "source": "US Census"
   },
+  "3123 N ROOSEVELT ST 32503, PENSACOLA, FL 32503": {
+    "display_name": "3123 N ROOSEVELT ST, PENSACOLA, FL, 32503",
+    "lat": 30.444976194965,
+    "lon": -87.219787151125,
+    "source": "US Census"
+  },
   "314 W 9 1/2 MILE RD, PENSACOLA, FL 32534": null,
   "3307 DR MARTIN LUTHER KING JR, Pensacola, FL": {
     "display_name": "3307 DR MARTIN LUTHER KING JR DR, PENSACOLA, FL, 32503",
