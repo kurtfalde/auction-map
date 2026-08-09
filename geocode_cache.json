@@ -446,6 +446,12 @@
     "lon": -87.248640309233,
     "source": "US Census"
   },
+  "519 BAYLISS CT, PENSACOLA, FL 32505": {
+    "display_name": "519 BAYLISS CT, PENSACOLA, FL, 32505",
+    "lat": 30.456402282156,
+    "lon": -87.250643897389,
+    "source": "US Census"
+  },
   "523 BAYLISS CT, PENSACOLA, FL 32505": {
     "display_name": "523 BAYLISS CT, PENSACOLA, FL, 32505",
     "lat": 30.456380930793,
@@ -510,6 +516,12 @@
     "display_name": "6260 KIRSTEN DR, PENSACOLA, FL, 32504",
     "lat": 30.486251173371,
     "lon": -87.186128761429,
+    "source": "US Census"
+  },
+  "63 N 71ST AVE, PENSACOLA, FL 32506": {
+    "display_name": "63 N 71ST AVE, PENSACOLA, FL, 32506",
+    "lat": 30.412533376222,
+    "lon": -87.306753662818,
     "source": "US Census"
   },
   "638 WILD HERON WAY, PENSACOLA, FL 32506": {
