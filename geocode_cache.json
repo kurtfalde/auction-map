@@ -688,6 +688,12 @@
     "lon": -87.17466697893,
     "source": "US Census"
   },
+  "8535 COVE AVE, PENSACOLA, FL 32534": {
+    "display_name": "8535 COVE AVE, PENSACOLA, FL, 32534",
+    "lat": 30.522530971404,
+    "lon": -87.288312046498,
+    "source": "US Census"
+  },
   "8700 FOWLER AVE 9 32534, PENSACOLA, FL 32534": {
     "display_name": "8700 FOWLER AVE, PENSACOLA, FL, 32534",
     "lat": 30.524522582866,
