@@ -260,6 +260,12 @@
     "source": "US Census"
   },
   "314 W 9 1/2 MILE RD, PENSACOLA, FL 32534": null,
+  "3229 N Q ST 32505, PENSACOLA, FL 32505": {
+    "display_name": "3229 N Q ST, PENSACOLA, FL, 32505",
+    "lat": 30.446452565614,
+    "lon": -87.242315332139,
+    "source": "US Census"
+  },
   "3307 DR MARTIN LUTHER KING JR, Pensacola, FL": {
     "display_name": "3307 DR MARTIN LUTHER KING JR DR, PENSACOLA, FL, 32503",
     "lat": 30.44602376461,
