@@ -235,6 +235,12 @@
     "lon": -87.395118292879,
     "source": "US Census"
   },
+  "2924 MELODY LN, PENSACOLA, FL 32505": {
+    "display_name": "2924 MELODY LN, PENSACOLA, FL, 32505",
+    "lat": 30.44673215451,
+    "lon": -87.250764459275,
+    "source": "US Census"
+  },
   "2944 MICHAEL DR 32505, Pensacola, FL": {
     "display_name": "2944 MICHAEL DR, PENSACOLA, FL, 32505",
     "lat": 30.448518369264,
@@ -444,6 +450,12 @@
     "display_name": "4955 LANETT DR, PENSACOLA, FL, 32526",
     "lat": 30.455730969337,
     "lon": -87.312437171763,
+    "source": "US Census"
+  },
+  "5025 JENNY LN, PERDIDO KEY, FL 32507": {
+    "display_name": "5025 JENNY LN, PENSACOLA, FL, 32507",
+    "lat": 30.32681329703,
+    "lon": -87.38425436233,
     "source": "US Census"
   },
   "505 IVES PL, PENSACOLA, FL 32514": {
