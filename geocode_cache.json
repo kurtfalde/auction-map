@@ -296,6 +296,12 @@
     "lon": -87.353673694299,
     "source": "US Census"
   },
+  "3748 N PACE BLVD 32505, PENSACOLA, FL 32505": {
+    "display_name": "3748 N PACE BLVD, PENSACOLA, FL, 32505",
+    "lat": 30.451450876275,
+    "lon": -87.239605539381,
+    "source": "US Census"
+  },
   "3818 N 12TH AVE, PENSACOLA, FL 32503": {
     "display_name": "3818 N 12TH AVE, PENSACOLA, FL, 32503",
     "lat": 30.455902624246,
@@ -408,6 +414,12 @@
     "display_name": "4409 HAVRE WAY, PENSACOLA, FL, 32505",
     "lat": 30.451930835163,
     "lon": -87.264580846589,
+    "source": "US Census"
+  },
+  "4417 GUERLAIN WAY 32505, PENSACOLA, FL 32505": {
+    "display_name": "4417 GUERLAIN WAY, PENSACOLA, FL, 32505",
+    "lat": 30.452381180807,
+    "lon": -87.263883220878,
     "source": "US Census"
   },
   "4479 ROCHELLE DR 32505, Pensacola, FL": {
