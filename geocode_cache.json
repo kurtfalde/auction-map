@@ -120,6 +120,12 @@
     "lon": -87.379784128025,
     "source": "US Census"
   },
+  "1467 IROQUOIS CT, PENSACOLA, FL 32534": {
+    "display_name": "1467 IROQUOIS CT, PENSACOLA, FL, 32534",
+    "lat": 30.527383116079,
+    "lon": -87.30220215912,
+    "source": "US Census"
+  },
   "151 N GARFIELD, PENSACOLA, FL 32505": {
     "display_name": "151 N GARFIELD DR, PENSACOLA, FL, 32505",
     "lat": 30.445599708089,
@@ -155,6 +161,12 @@
     "display_name": "1955 GARY CIR, PENSACOLA, FL, 32505",
     "lat": 30.433086102987,
     "lon": -87.255605430753,
+    "source": "US Census"
+  },
+  "2041 SEQUOIA CIR, PENSACOLA, FL 32526": {
+    "display_name": "2041 SEQUOIA CIR, PENSACOLA, FL, 32526",
+    "lat": 30.469352316462,
+    "lon": -87.300628170693,
     "source": "US Census"
   },
   "208 FAIRFAX DR, PENSACOLA, FL 32503": {
@@ -199,6 +211,12 @@
     "lon": -87.273107904836,
     "source": "US Census"
   },
+  "2301 WINDSTONE DR, PENSACOLA, FL 32526": {
+    "display_name": "2301 WINDSTONE DR, PENSACOLA, FL, 32526",
+    "lat": 30.471303488908,
+    "lon": -87.283253499672,
+    "source": "US Census"
+  },
   "2420 N U ST, PENSACOLA, FL 32505": {
     "display_name": "2420 N U ST, PENSACOLA, FL, 32505",
     "lat": 30.437505515177,
@@ -209,6 +227,12 @@
     "display_name": "2423 TRAILWOOD DR, CANTONMENT, FL, 32533",
     "lat": 30.54028000658,
     "lon": -87.316102909937,
+    "source": "US Census"
+  },
+  "247 SANTA ROSA RD, CANTONMENT, FL 32533": {
+    "display_name": "247 SANTA ROSA RD, CANTONMENT, FL, 32533",
+    "lat": 30.619415282048,
+    "lon": -87.347376066546,
     "source": "US Census"
   },
   "250 CHESTNUT ST, PENSACOLA, FL 32506": {
@@ -270,6 +294,12 @@
     "display_name": "3229 N Q ST, PENSACOLA, FL, 32505",
     "lat": 30.446452565614,
     "lon": -87.242315332139,
+    "source": "US Census"
+  },
+  "3288 TWO SISTERS WAY, PENSACOLA, FL 32505": {
+    "display_name": "3288 TWO SISTERS WAY, PENSACOLA, FL, 32505",
+    "lat": 30.44748054895,
+    "lon": -87.280953290085,
     "source": "US Census"
   },
   "3307 DR MARTIN LUTHER KING JR, Pensacola, FL": {
@@ -506,6 +536,12 @@
     "lon": -87.227707936168,
     "source": "US Census"
   },
+  "5711 SCOTLAND RD, PENSACOLA, FL 32526": {
+    "display_name": "5711 SCOTLAND RD, PENSACOLA, FL, 32526",
+    "lat": 30.449391502363,
+    "lon": -87.327741352788,
+    "source": "US Census"
+  },
   "5790 LINN AVE, PERDIDO KEY, FL 32507": {
     "display_name": "5790 LINN AVE, PENSACOLA, FL, 32507",
     "lat": 30.313874605611,
@@ -722,6 +758,12 @@
     "display_name": "8535 COVE AVE, PENSACOLA, FL, 32534",
     "lat": 30.522530971404,
     "lon": -87.288312046498,
+    "source": "US Census"
+  },
+  "8617 BLUE JAY WAY, PENSACOLA, FL 32534": {
+    "display_name": "8617 BLUE JAY WAY, PENSACOLA, FL, 32534",
+    "lat": 30.521753762667,
+    "lon": -87.306059407647,
     "source": "US Census"
   },
   "8700 FOWLER AVE 9 32534, PENSACOLA, FL 32534": {
