@@ -296,6 +296,12 @@
     "lon": -87.242315332139,
     "source": "US Census"
   },
+  "3241 N PALAFOX ST 32501, PENSACOLA, FL 32501": {
+    "display_name": "3241 N PALAFOX ST, PENSACOLA, FL, 32501",
+    "lat": 30.444037719472,
+    "lon": -87.226440773579,
+    "source": "US Census"
+  },
   "3288 TWO SISTERS WAY, PENSACOLA, FL 32505": {
     "display_name": "3288 TWO SISTERS WAY, PENSACOLA, FL, 32505",
     "lat": 30.44748054895,
