@@ -808,6 +808,12 @@
     "lon": -87.262263154816,
     "source": "US Census"
   },
+  "921 CANDLESTICK DR, PENSACOLA, FL 32514": {
+    "display_name": "921 CANDLESTICK DR, PENSACOLA, FL, 32514",
+    "lat": 30.541288310575,
+    "lon": -87.249513327558,
+    "source": "US Census"
+  },
   "921 W HOPE DR 32534, PENSACOLA, FL 32534": {
     "display_name": "921 W HOPE DR, PENSACOLA, FL, 32534",
     "lat": 30.507025682324,
