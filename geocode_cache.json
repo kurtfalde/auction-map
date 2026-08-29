@@ -296,6 +296,12 @@
     "lon": -87.242315332139,
     "source": "US Census"
   },
+  "3230 N ROOSEVELT ST 32503, PENSACOLA, FL 32503": {
+    "display_name": "3230 N ROOSEVELT ST, PENSACOLA, FL, 32503",
+    "lat": 30.447268147202,
+    "lon": -87.220104233185,
+    "source": "US Census"
+  },
   "3241 N PALAFOX ST 32501, PENSACOLA, FL 32501": {
     "display_name": "3241 N PALAFOX ST, PENSACOLA, FL, 32501",
     "lat": 30.444037719472,
