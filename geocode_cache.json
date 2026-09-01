@@ -132,6 +132,12 @@
     "lon": -87.280905002884,
     "source": "US Census"
   },
+  "1537 FARRAGUT WAY, PENSACOLA, FL 32534": {
+    "display_name": "1537 FARRAGUT WAY, PENSACOLA, FL, 32534",
+    "lat": 30.530798272737,
+    "lon": -87.301600944795,
+    "source": "US Census"
+  },
   "1608 SAXON ST 32505, Pensacola, FL": {
     "display_name": "1608 SAXON ST, PENSACOLA, FL, 32505",
     "lat": 30.49113637706,
@@ -308,6 +314,12 @@
     "lon": -87.226440773579,
     "source": "US Census"
   },
+  "327 ARABIAN DR, PENSACOLA, FL 32506": {
+    "display_name": "327 ARABIAN DR, PENSACOLA, FL, 32506",
+    "lat": 30.407646170623,
+    "lon": -87.306365280041,
+    "source": "US Census"
+  },
   "3288 TWO SISTERS WAY, PENSACOLA, FL 32505": {
     "display_name": "3288 TWO SISTERS WAY, PENSACOLA, FL, 32505",
     "lat": 30.44748054895,
@@ -434,6 +446,12 @@
     "lon": -87.235177409878,
     "source": "US Census"
   },
+  "420 DEERFOOT LN, CANTONMENT, FL 32533": {
+    "display_name": "420 DEERFOOT LN, CANTONMENT, FL, 32533",
+    "lat": 30.588584521652,
+    "lon": -87.295737033213,
+    "source": "US Census"
+  },
   "4239 SPANISH TRL, PENSACOLA, FL 32504": {
     "display_name": "4239 SPANISH TRL, PENSACOLA, FL, 32504",
     "lat": 30.467677196491,
@@ -450,6 +468,12 @@
     "display_name": "4315 N 9TH AVE, PENSACOLA, FL, 32503",
     "lat": 30.461188033944,
     "lon": -87.214486362627,
+    "source": "US Census"
+  },
+  "4400 MOLINO MEADOWS DR, MOLINO, FL 32577": {
+    "display_name": "4400 MOLINO MEADOWS DR, MOLINO, FL, 32577",
+    "lat": 30.683804933812,
+    "lon": -87.331828185276,
     "source": "US Census"
   },
   "4409 HAVRE WAY, PENSACOLA, FL 32505": {
@@ -764,6 +788,12 @@
     "display_name": "8430 OLD SPANISH TRAIL RD, PENSACOLA, FL, 32514",
     "lat": 30.516338042625,
     "lon": -87.17466697893,
+    "source": "US Census"
+  },
+  "8516 BLUE JAY WAY, PENSACOLA, FL 32534": {
+    "display_name": "8516 BLUE JAY WAY, PENSACOLA, FL, 32534",
+    "lat": 30.519820357197,
+    "lon": -87.305591583157,
     "source": "US Census"
   },
   "8535 COVE AVE, PENSACOLA, FL 32534": {
