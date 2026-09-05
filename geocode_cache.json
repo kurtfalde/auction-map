@@ -114,6 +114,12 @@
     "lon": -87.209293740341,
     "source": "US Census"
   },
+  "13860 BEULAH RD, CANTONMENT, FL 32533": {
+    "display_name": "13860 BEULAH RD, CANTONMENT, FL, 32533",
+    "lat": 30.587062483247,
+    "lon": -87.396433979699,
+    "source": "US Census"
+  },
   "1450 COUNTRY HILLS RD, CANTONMENT, FL 32533": {
     "display_name": "1450 COUNTRY HILLS DR, CANTONMENT, FL, 32533",
     "lat": 30.661119987492,
@@ -167,6 +173,12 @@
     "display_name": "1955 GARY CIR, PENSACOLA, FL, 32505",
     "lat": 30.433086102987,
     "lon": -87.255605430753,
+    "source": "US Census"
+  },
+  "201 RUBY AVE, PENSACOLA, FL 32505": {
+    "display_name": "201 RUBY AVE, PENSACOLA, FL, 32505",
+    "lat": 30.438915321772,
+    "lon": -87.262624474277,
     "source": "US Census"
   },
   "2041 SEQUOIA CIR, PENSACOLA, FL 32526": {
@@ -518,6 +530,12 @@
     "lon": -87.265999632012,
     "source": "US Census"
   },
+  "4512 CHERBOURG WAY, PENSACOLA, FL 32505": {
+    "display_name": "4512 CHERBOURG WAY, PENSACOLA, FL, 32505",
+    "lat": 30.455244656168,
+    "lon": -87.269488072736,
+    "source": "US Census"
+  },
   "4520 LANDES DR 32505, Pensacola, FL": {
     "display_name": "4520 LANDES DR, PENSACOLA, FL, 32505",
     "lat": 30.458757577918,
@@ -528,6 +546,12 @@
     "display_name": "4955 LANETT DR, PENSACOLA, FL, 32526",
     "lat": 30.455730969337,
     "lon": -87.312437171763,
+    "source": "US Census"
+  },
+  "5 UNION CT, PENSACOLA, FL 32506": {
+    "display_name": "5 UNION CT, PENSACOLA, FL, 32506",
+    "lat": 30.427511488603,
+    "lon": -87.28317151957,
     "source": "US Census"
   },
   "5025 JENNY LN, PERDIDO KEY, FL 32507": {
@@ -872,6 +896,12 @@
     "display_name": "9560 SUNNEHANNA BLVD, PENSACOLA, FL, 32514",
     "lat": 30.535747612306,
     "lon": -87.236489812239,
+    "source": "US Census"
+  },
+  "982 SAWYER ST, PENSACOLA, FL 32534": {
+    "display_name": "982 SAWYER ST, PENSACOLA, FL, 32534",
+    "lat": 30.514036480619,
+    "lon": -87.278227842245,
     "source": "US Census"
   },
   "PRICE ST 32534, PENSACOLA, FL 32534": null
