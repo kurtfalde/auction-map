@@ -120,6 +120,12 @@
     "lon": -87.396433979699,
     "source": "US Census"
   },
+  "1424 N 65TH AVE 32506, Pensacola, FL": {
+    "display_name": "1424 N 65TH AVE, PENSACOLA, FL, 32506",
+    "lat": 30.428961271904,
+    "lon": -87.30009076534,
+    "source": "US Census"
+  },
   "1450 COUNTRY HILLS RD, CANTONMENT, FL 32533": {
     "display_name": "1450 COUNTRY HILLS DR, CANTONMENT, FL, 32533",
     "lat": 30.661119987492,
@@ -191,6 +197,12 @@
     "display_name": "208 FAIRFAX DR, PENSACOLA, FL, 32503",
     "lat": 30.45149744876,
     "lon": -87.21494661672,
+    "source": "US Census"
+  },
+  "21 RANDOLPH DR 32506, Pensacola, FL": {
+    "display_name": "21 RANDOLPH DR, PENSACOLA, FL, 32506",
+    "lat": 30.428993731569,
+    "lon": -87.278716977107,
     "source": "US Census"
   },
   "2149 YARDLEY CIR, PENSACOLA, FL 32526": {
@@ -271,6 +283,12 @@
     "lon": -87.227814542439,
     "source": "US Census"
   },
+  "27 NORWOOD DR 32506, Pensacola, FL": {
+    "display_name": "27 NORWOOD DR, PENSACOLA, FL, 32506",
+    "lat": 30.428189222113,
+    "lon": -87.27823080926,
+    "source": "US Census"
+  },
   "285 RIVER ANNEX RD, CANTONMENT, FL 32533": {
     "display_name": "285 RIVER ANNEX RD, CANTONMENT, FL, 32533",
     "lat": 30.606254023119,
@@ -338,6 +356,12 @@
     "lon": -87.280953290085,
     "source": "US Census"
   },
+  "33 BERTRAM ST 32506, Pensacola, FL": {
+    "display_name": "33 BERTRAM ST, PENSACOLA, FL, 32506",
+    "lat": 30.424722684398,
+    "lon": -87.279337064643,
+    "source": "US Census"
+  },
   "3307 DR MARTIN LUTHER KING JR, Pensacola, FL": {
     "display_name": "3307 DR MARTIN LUTHER KING JR DR, PENSACOLA, FL, 32503",
     "lat": 30.44602376461,
@@ -384,6 +408,18 @@
     "display_name": "3915 COONS AVE, PENSACOLA, FL, 32505",
     "lat": 30.454516290719,
     "lon": -87.248871206044,
+    "source": "US Census"
+  },
+  "4 EDGEMONT DR 32506, Pensacola, FL": {
+    "display_name": "4 EDGEMONT DR, PENSACOLA, FL, 32506",
+    "lat": 30.417606078408,
+    "lon": -87.285681276894,
+    "source": "US Census"
+  },
+  "400 N 65TH AVE 32506, Pensacola, FL": {
+    "display_name": "400 N 65TH AVE, PENSACOLA, FL, 32506",
+    "lat": 30.415112396217,
+    "lon": -87.300636311489,
     "source": "US Census"
   },
   "4007 N W ST 32505, Pensacola, FL": {
@@ -456,6 +492,12 @@
     "display_name": "414 TWIN LAKES DR, PENSACOLA, FL, 32504",
     "lat": 30.497997969342,
     "lon": -87.235177409878,
+    "source": "US Census"
+  },
+  "42 PEN HAVEN DR 32506, Pensacola, FL": {
+    "display_name": "42 PEN HAVEN DR, PENSACOLA, FL, 32506",
+    "lat": 30.429900980109,
+    "lon": -87.277403444946,
     "source": "US Census"
   },
   "420 DEERFOOT LN, CANTONMENT, FL 32533": {
@@ -542,6 +584,12 @@
     "lon": -87.258389856664,
     "source": "US Census"
   },
+  "4722 LILLIAN HWY 32506, Pensacola, FL": {
+    "display_name": "4722 LILLIAN HWY, PENSACOLA, FL, 32506",
+    "lat": 30.426758664201,
+    "lon": -87.280286208243,
+    "source": "US Census"
+  },
   "4955 LANETT DR, PENSACOLA, FL 32526": {
     "display_name": "4955 LANETT DR, PENSACOLA, FL, 32526",
     "lat": 30.455730969337,
@@ -566,10 +614,22 @@
     "lon": -87.248640309233,
     "source": "US Census"
   },
+  "518 FOREST PARK DR 32506, Pensacola, FL": {
+    "display_name": "518 FOREST PARK DR, PENSACOLA, FL, 32506",
+    "lat": 30.41623556324,
+    "lon": -87.287038985947,
+    "source": "US Census"
+  },
   "519 BAYLISS CT, PENSACOLA, FL 32505": {
     "display_name": "519 BAYLISS CT, PENSACOLA, FL, 32505",
     "lat": 30.456402282156,
     "lon": -87.250643897389,
+    "source": "US Census"
+  },
+  "522 FITZGERALD ST 32505, Pensacola, FL": {
+    "display_name": "522 FITZGERALD ST, PENSACOLA, FL, 32505",
+    "lat": 30.418599868876,
+    "lon": -87.264907018902,
     "source": "US Census"
   },
   "523 BAYLISS CT, PENSACOLA, FL 32505": {
