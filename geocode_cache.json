@@ -138,6 +138,12 @@
     "lon": -87.30220215912,
     "source": "US Census"
   },
+  "1488 BLUE ANGEL PKWY, PENSACOLA, FL 32506": {
+    "display_name": "1488 N BLUE ANGEL PKWY, PENSACOLA, FL, 32506",
+    "lat": 30.42117344127,
+    "lon": -87.328739551865,
+    "source": "US Census"
+  },
   "151 N GARFIELD, PENSACOLA, FL 32505": {
     "display_name": "151 N GARFIELD DR, PENSACOLA, FL, 32505",
     "lat": 30.445599708089,
@@ -154,6 +160,12 @@
     "display_name": "1608 SAXON ST, PENSACOLA, FL, 32505",
     "lat": 30.49113637706,
     "lon": -87.281374936911,
+    "source": "US Census"
+  },
+  "1814 W GREGORY ST, PENSACOLA, FL 32502": {
+    "display_name": "1814 W GREGORY ST, PENSACOLA, FL, 32502",
+    "lat": 30.414349197852,
+    "lon": -87.237789709621,
     "source": "US Census"
   },
   "1828 NESTLE DR, PENSACOLA, FL 32534": {
@@ -602,10 +614,28 @@
     "lon": -87.28317151957,
     "source": "US Census"
   },
+  "500 N 49TH AVE A & B, PENSACOLA, FL 32506": {
+    "display_name": "500 N 49TH AVE, PENSACOLA, FL, 32506",
+    "lat": 30.415825939916,
+    "lon": -87.281034021476,
+    "source": "US Census"
+  },
+  "502 N 49TH AVE A & B, PENSACOLA, FL 32506": {
+    "display_name": "502 N 49TH AVE, PENSACOLA, FL, 32506",
+    "lat": 30.416021856621,
+    "lon": -87.281051603735,
+    "source": "US Census"
+  },
   "5025 JENNY LN, PERDIDO KEY, FL 32507": {
     "display_name": "5025 JENNY LN, PENSACOLA, FL, 32507",
     "lat": 30.32681329703,
     "lon": -87.38425436233,
+    "source": "US Census"
+  },
+  "504 N 49TH AVE A & B, PENSACOLA, FL 32506": {
+    "display_name": "504 N 49TH AVE, PENSACOLA, FL, 32506",
+    "lat": 30.416217773327,
+    "lon": -87.281069185994,
     "source": "US Census"
   },
   "505 IVES PL, PENSACOLA, FL 32514": {
@@ -720,6 +750,12 @@
     "display_name": "6510 ROCKAWAY CREEK RD, WALNUT HILL, FL, 32568",
     "lat": 30.981945511768,
     "lon": -87.516170989495,
+    "source": "US Census"
+  },
+  "6700 LILLIAN HWY, PENSACOLA, FL 32506": {
+    "display_name": "6700 LILLIAN HWY, PENSACOLA, FL, 32506",
+    "lat": 30.421760072421,
+    "lon": -87.302489027433,
     "source": "US Census"
   },
   "6727 LAKE JOANNE DR, PENSACOLA, FL 32506": {
@@ -862,6 +898,12 @@
     "lon": -87.258944133144,
     "source": "US Census"
   },
+  "8356 MONTICELLO DR, PENSACOLA, FL 32514": {
+    "display_name": "8356 MONTICELLO DR, PENSACOLA, FL, 32514",
+    "lat": 30.514073440915,
+    "lon": -87.189057447985,
+    "source": "US Census"
+  },
   "8370 CARL DEAN ST 112 32514, Pensacola, FL": {
     "display_name": "8370 CARL DEAN ST, PENSACOLA, FL, 32514",
     "lat": 30.514820851696,
@@ -938,6 +980,12 @@
     "display_name": "921 W HOPE DR, PENSACOLA, FL, 32534",
     "lat": 30.507025682324,
     "lon": -87.271053165112,
+    "source": "US Census"
+  },
+  "9509 BARRANGER DR, PENSACOLA, FL 32514": {
+    "display_name": "9509 BARRANGER DR, PENSACOLA, FL, 32514",
+    "lat": 30.533440429719,
+    "lon": -87.224378272444,
     "source": "US Census"
   },
   "953 CHESAPEAKE TRL, CANTONMENT, FL 32533": {
