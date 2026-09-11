@@ -156,6 +156,12 @@
     "lon": -87.301600944795,
     "source": "US Census"
   },
+  "16 HORN ST 32506, PENSACOLA, FL 32506": {
+    "display_name": "16 HORN ST, PENSACOLA, FL, 32506",
+    "lat": 30.425195457531,
+    "lon": -87.278170816248,
+    "source": "US Census"
+  },
   "1608 SAXON ST 32505, Pensacola, FL": {
     "display_name": "1608 SAXON ST, PENSACOLA, FL, 32505",
     "lat": 30.49113637706,
@@ -257,6 +263,12 @@
     "display_name": "2301 WINDSTONE DR, PENSACOLA, FL, 32526",
     "lat": 30.471303488908,
     "lon": -87.283253499672,
+    "source": "US Census"
+  },
+  "240 NEW WARRINGTON RD 32506, PENSACOLA, FL 32506": {
+    "display_name": "240 NEW WARRINGTON RD, PENSACOLA, FL, 32506",
+    "lat": 30.414034642173,
+    "lon": -87.275879821793,
     "source": "US Census"
   },
   "2420 N U ST, PENSACOLA, FL 32505": {
