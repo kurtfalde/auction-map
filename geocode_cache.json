@@ -265,6 +265,12 @@
     "lon": -87.283253499672,
     "source": "US Census"
   },
+  "2351 GREENWELL CT, PENSACOLA, FL 32526": {
+    "display_name": "2351 GREENWELL CT, PENSACOLA, FL, 32526",
+    "lat": 30.46961510976,
+    "lon": -87.283547201909,
+    "source": "US Census"
+  },
   "240 NEW WARRINGTON RD 32506, PENSACOLA, FL 32506": {
     "display_name": "240 NEW WARRINGTON RD, PENSACOLA, FL, 32506",
     "lat": 30.414034642173,
@@ -438,6 +444,12 @@
     "display_name": "4 EDGEMONT DR, PENSACOLA, FL, 32506",
     "lat": 30.417606078408,
     "lon": -87.285681276894,
+    "source": "US Census"
+  },
+  "4 PORTOFINO DR 706, PENSACOLA BEACH, FL 32561": {
+    "display_name": "4 PORTOFINO DR, PENSACOLA BEACH, FL, 32561",
+    "lat": 30.344543538046,
+    "lon": -87.080120548258,
     "source": "US Census"
   },
   "400 N 65TH AVE 32506, Pensacola, FL": {
@@ -686,6 +698,12 @@
     "lon": -87.259335926844,
     "source": "US Census"
   },
+  "5503 MAYFAIR DR, PENSACOLA, FL 32506": {
+    "display_name": "5503 MAYFAIR DR, PENSACOLA, FL, 32506",
+    "lat": 30.413640511151,
+    "lon": -87.287548885237,
+    "source": "US Census"
+  },
   "5607 DUVAL ST 32503, Pensacola, FL": {
     "display_name": "5607 DUVAL ST, PENSACOLA, FL, 32503",
     "lat": 30.479262250395,
@@ -758,6 +776,12 @@
     "lon": -87.378954777094,
     "source": "US Census"
   },
+  "6465 N CONCORD WAY, PENSACOLA, FL 32504": {
+    "display_name": "6465 CONCORD WAY, PENSACOLA, FL, 32504",
+    "lat": 30.491153647406,
+    "lon": -87.197520147169,
+    "source": "US Census"
+  },
   "6510 ROCKAWAY CREEK RD, WALNUT HILL, FL 32568": {
     "display_name": "6510 ROCKAWAY CREEK RD, WALNUT HILL, FL, 32568",
     "lat": 30.981945511768,
@@ -786,6 +810,12 @@
     "display_name": "7051 PENSACOLA BLVD, PENSACOLA, FL, 32505",
     "lat": 30.494396152492,
     "lon": -87.262415405408,
+    "source": "US Census"
+  },
+  "7075 OAKCLIFF RD, PENSACOLA, FL 32526": {
+    "display_name": "7075 OAKCLIFF RD, PENSACOLA, FL, 32526",
+    "lat": 30.438932904051,
+    "lon": -87.306523724813,
     "source": "US Census"
   },
   "7115 MOBILE HWY 32526, PENSACOLA, FL 32526": {
@@ -956,6 +986,12 @@
     "display_name": "8831 FIGLAND AVE, PENSACOLA, FL, 32534",
     "lat": 30.525993194302,
     "lon": -87.277618936055,
+    "source": "US Census"
+  },
+  "8889 SCENIC HILLS DR, PENSACOLA, FL 32514": {
+    "display_name": "8889 SCENIC HILLS DR, PENSACOLA, FL, 32514",
+    "lat": 30.543501999459,
+    "lon": -87.232809238602,
     "source": "US Census"
   },
   "8900 SCENIC HILLS DR, PENSACOLA, FL 32514": {
