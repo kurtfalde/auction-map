@@ -84,6 +84,12 @@
     "lon": -87.312294802051,
     "source": "US Census"
   },
+  "117 CURTISS DR, PENSACOLA, FL 32505": {
+    "display_name": "117 CURTISS DR, PENSACOLA, FL, 32505",
+    "lat": 30.44385093069,
+    "lon": -87.280115515651,
+    "source": "US Census"
+  },
   "1211 DEXTER AVE, PERDIDO KEY, FL 32507": {
     "display_name": "1211 DEXTER AVE, PENSACOLA, FL, 32507",
     "lat": 30.395237999059,
@@ -148,6 +154,12 @@
     "display_name": "151 N GARFIELD DR, PENSACOLA, FL, 32505",
     "lat": 30.445599708089,
     "lon": -87.280905002884,
+    "source": "US Census"
+  },
+  "1519 NEWCASTLE WAY, PENSACOLA, FL 32534": {
+    "display_name": "1519 NEWCASTLE WAY, PENSACOLA, FL, 32534",
+    "lat": 30.52876841185,
+    "lon": -87.298285877515,
     "source": "US Census"
   },
   "1537 FARRAGUT WAY, PENSACOLA, FL 32534": {
@@ -263,6 +275,12 @@
     "display_name": "2301 WINDSTONE DR, PENSACOLA, FL, 32526",
     "lat": 30.471303488908,
     "lon": -87.283253499672,
+    "source": "US Census"
+  },
+  "2304 W YONGE ST, PENSACOLA, FL 32505": {
+    "display_name": "2304 W YONGE ST, PENSACOLA, FL, 32505",
+    "lat": 30.437157049417,
+    "lon": -87.242635479785,
     "source": "US Census"
   },
   "2351 GREENWELL CT, PENSACOLA, FL 32526": {
@@ -480,6 +498,12 @@
     "display_name": "4019 N 8TH AVE, PENSACOLA, FL, 32503",
     "lat": 30.45525590814,
     "lon": -87.216267892366,
+    "source": "US Census"
+  },
+  "402 BUNKER HILL DR, PENSACOLA, FL 32506": {
+    "display_name": "402 BUNKER HILL DR, PENSACOLA, FL, 32506",
+    "lat": 30.404503605149,
+    "lon": -87.303866767504,
     "source": "US Census"
   },
   "4021 SCHIFKO RD, CANTONMENT, FL 32533": {
@@ -885,6 +909,12 @@
     "source": "US Census"
   },
   "7590 BRICKYARD RD 32577, Pensacola, FL": null,
+  "7645 WOOD STREAM DR, PENSACOLA, FL 32514": {
+    "display_name": "7645 WOOD STREAM DR, PENSACOLA, FL, 32514",
+    "lat": 30.503770774156,
+    "lon": -87.180135234635,
+    "source": "US Census"
+  },
   "7655 DAGEN RD 32568, WALNUT HILL, FL 32568": null,
   "7661 WOOD STREAM DR 32514, Pensacola, FL": {
     "display_name": "7661 WOOD STREAM DR, PENSACOLA, FL, 32514",
@@ -944,6 +974,12 @@
     "display_name": "8356 MONTICELLO DR, PENSACOLA, FL, 32514",
     "lat": 30.514073440915,
     "lon": -87.189057447985,
+    "source": "US Census"
+  },
+  "836 S K ST, PENSACOLA, FL 32502": {
+    "display_name": "836 S K ST, PENSACOLA, FL, 32502",
+    "lat": 30.403102368182,
+    "lon": -87.237761856289,
     "source": "US Census"
   },
   "8370 CARL DEAN ST 112 32514, Pensacola, FL": {
@@ -1058,6 +1094,12 @@
     "display_name": "982 SAWYER ST, PENSACOLA, FL, 32534",
     "lat": 30.514036480619,
     "lon": -87.278227842245,
+    "source": "US Census"
+  },
+  "9901 N BARTH RD, MOLINO, FL 32577": {
+    "display_name": "9901 N BARTH RD, MOLINO, FL, 32577",
+    "lat": 30.771715737039,
+    "lon": -87.331942064975,
     "source": "US Census"
   },
   "PRICE ST 32534, PENSACOLA, FL 32534": null
