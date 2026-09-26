@@ -289,6 +289,12 @@
     "lon": -87.283547201909,
     "source": "US Census"
   },
+  "2370 LA LAR LN, PENSACOLA, FL 32534": {
+    "display_name": "2370 LA LAR LN, PENSACOLA, FL, 32534",
+    "lat": 30.564681700542,
+    "lon": -87.282986450193,
+    "source": "US Census"
+  },
   "240 NEW WARRINGTON RD 32506, PENSACOLA, FL 32506": {
     "display_name": "240 NEW WARRINGTON RD, PENSACOLA, FL, 32506",
     "lat": 30.414034642173,
@@ -674,6 +680,12 @@
     "lon": -87.281051603735,
     "source": "US Census"
   },
+  "5024 STEVENDALE RD, PENSACOLA, FL 32526": {
+    "display_name": "5024 STEVENDALE RD, PENSACOLA, FL, 32526",
+    "lat": 30.463055125561,
+    "lon": -87.316918095285,
+    "source": "US Census"
+  },
   "5025 JENNY LN, PERDIDO KEY, FL 32507": {
     "display_name": "5025 JENNY LN, PENSACOLA, FL, 32507",
     "lat": 30.32681329703,
@@ -830,6 +842,12 @@
     "lon": -87.217626902935,
     "source": "US Census"
   },
+  "700 N 46TH AVE, PENSACOLA, FL 32506": {
+    "display_name": "700 N 46TH AVE, PENSACOLA, FL, 32506",
+    "lat": 30.418890423536,
+    "lon": -87.27771456576,
+    "source": "US Census"
+  },
   "7051 PENSACOLA BLVD, PENSACOLA, FL 32505": {
     "display_name": "7051 PENSACOLA BLVD, PENSACOLA, FL, 32505",
     "lat": 30.494396152492,
@@ -926,6 +944,12 @@
     "display_name": "7800 EIGHT MILE CREEK RD, PENSACOLA, FL, 32526",
     "lat": 30.505708000887,
     "lon": -87.322536527245,
+    "source": "US Census"
+  },
+  "7831 KELLY FIELDS RD, CENTURY, FL 32535": {
+    "display_name": "7831 KELLY FIELD RD, CENTURY, FL, 32535",
+    "lat": 30.975343302109,
+    "lon": -87.258114921154,
     "source": "US Census"
   },
   "7875 HERRINGTON DR, PENSACOLA, FL 32534": {
