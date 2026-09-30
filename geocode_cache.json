@@ -1102,6 +1102,12 @@
     "lon": -87.262263154816,
     "source": "US Census"
   },
+  "906 N 63RD AVE 32506, PENSACOLA, FL 32506": {
+    "display_name": "906 N 63RD AVE, PENSACOLA, FL, 32506",
+    "lat": 30.420552629376,
+    "lon": -87.298273615161,
+    "source": "US Census"
+  },
   "921 CANDLESTICK DR, PENSACOLA, FL 32514": {
     "display_name": "921 CANDLESTICK DR, PENSACOLA, FL, 32514",
     "lat": 30.541288310575,
