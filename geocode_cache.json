@@ -11,6 +11,12 @@
     "lon": -87.209744424425,
     "source": "US Census"
   },
+  "1007 MILLS AVE, PERDIDO KEY, FL 32507": {
+    "display_name": "1007 MILLS AVE, PENSACOLA, FL, 32507",
+    "lat": 30.387103940856,
+    "lon": -87.292328182187,
+    "source": "US Census"
+  },
   "1013 RACHEL CIR, CANTONMENT, FL 32533": {
     "display_name": "1013 RACHEL CIR, CANTONMENT, FL, 32533",
     "lat": 30.591227013466,
@@ -329,6 +335,12 @@
     "display_name": "250 CHESTNUT ST, PENSACOLA, FL, 32506",
     "lat": 30.413518047169,
     "lon": -87.282428074103,
+    "source": "US Census"
+  },
+  "2501 DUNN ST, PENSACOLA, FL 32526": {
+    "display_name": "2501 DUNN ST, PENSACOLA, FL, 32526",
+    "lat": 30.470210557311,
+    "lon": -87.296876633527,
     "source": "US Census"
   },
   "2617 LEONARD ST, PENSACOLA, FL 32505": {
