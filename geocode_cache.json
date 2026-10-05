@@ -78,6 +78,12 @@
     "lon": -87.270777198891,
     "source": "US Census"
   },
+  "11147 GULF BEACH HWY 32507, Pensacola, FL": {
+    "display_name": "11147 GULF BEACH HWY, PENSACOLA, FL, 32507",
+    "lat": 30.326823814767,
+    "lon": -87.379071767918,
+    "source": "US Census"
+  },
   "1122 W HOPE DR 32534, PENSACOLA, FL 32534": {
     "display_name": "1122 W HOPE DR, PENSACOLA, FL, 32534",
     "lat": 30.506482186104,
@@ -120,18 +126,21 @@
     "lon": -87.281109920258,
     "source": "US Census"
   },
+  "1301 LAKE DR 32533, Pensacola, FL": null,
   "1307 N 8TH AVE, PENSACOLA, FL 32503": {
     "display_name": "1307 N 8TH AVE, PENSACOLA, FL, 32503",
     "lat": 30.427688507746,
     "lon": -87.209293740341,
     "source": "US Census"
   },
+  "1321 LAKE DR 32533, Pensacola, FL": null,
   "1323 N 6TH AVE, PENSACOLA, FL 32503": {
     "display_name": "1323 N 6TH AVE, PENSACOLA, FL, 32503",
     "lat": 30.427557028976,
     "lon": -87.211050644746,
     "source": "US Census"
   },
+  "1340 LAKE DR 32533, Pensacola, FL": null,
   "13860 BEULAH RD, CANTONMENT, FL 32533": {
     "display_name": "13860 BEULAH RD, CANTONMENT, FL, 32533",
     "lat": 30.587062483247,
@@ -162,6 +171,7 @@
     "lon": -87.328739551865,
     "source": "US Census"
   },
+  "1504 5TH AVE 32533, Pensacola, FL": null,
   "151 N GARFIELD, PENSACOLA, FL 32505": {
     "display_name": "151 N GARFIELD DR, PENSACOLA, FL, 32505",
     "lat": 30.445599708089,
@@ -174,6 +184,7 @@
     "lon": -87.298285877515,
     "source": "US Census"
   },
+  "1536 5TH AVE 32533, Pensacola, FL": null,
   "1537 FARRAGUT WAY, PENSACOLA, FL 32534": {
     "display_name": "1537 FARRAGUT WAY, PENSACOLA, FL, 32534",
     "lat": 30.530798272737,
@@ -764,6 +775,18 @@
     "lon": -87.250721382182,
     "source": "US Census"
   },
+  "5323 PLATEAU RD 32507, Pensacola, FL": {
+    "display_name": "5323 PLEATEAU RD, PENSACOLA, FL, 32507",
+    "lat": 30.324133515375,
+    "lon": -87.405149158374,
+    "source": "US Census"
+  },
+  "5324 PLATEAU RD 32507, Pensacola, FL": {
+    "display_name": "5324 PLEATEAU RD, PENSACOLA, FL, 32507",
+    "lat": 30.324452273017,
+    "lon": -87.405008036506,
+    "source": "US Census"
+  },
   "535 BOYETTE ST, PENSACOLA, FL 32514": {
     "display_name": "535 BOYETTE ST, PENSACOLA, FL, 32514",
     "lat": 30.542392907479,
@@ -1172,6 +1195,13 @@
     "display_name": "9901 N BARTH RD, MOLINO, FL, 32577",
     "lat": 30.771715737039,
     "lon": -87.331942064975,
+    "source": "US Census"
+  },
+  "END OF LARIMER AVE 32507, Pensacola, FL": null,
+  "FRANK REEDER & WINDY HILL 3252, Pensacola, FL": {
+    "display_name": "FRANK REEDER RD & WINDY HILL RD, PENSACOLA, FL, 32526",
+    "lat": 30.550643986055,
+    "lon": -87.401421003967,
     "source": "US Census"
   },
   "PRICE ST 32534, PENSACOLA, FL 32534": null
