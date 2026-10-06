@@ -234,6 +234,12 @@
     "lon": -87.255605430753,
     "source": "US Census"
   },
+  "2002 WOODBURY DR, CANTONMENT, FL 32533": {
+    "display_name": "2002 WOODBURY DR, CANTONMENT, FL, 32533",
+    "lat": 30.606492957473,
+    "lon": -87.311588073404,
+    "source": "US Census"
+  },
   "201 RUBY AVE, PENSACOLA, FL 32505": {
     "display_name": "201 RUBY AVE, PENSACOLA, FL, 32505",
     "lat": 30.438915321772,
@@ -499,6 +505,12 @@
     "lon": -87.338559258525,
     "source": "US Census"
   },
+  "39 GLOUCESTER AVE 32505, PENSACOLA, FL 32505": {
+    "display_name": "39 GLOUCESTER AVE, PENSACOLA, FL, 32505",
+    "lat": 30.418268895581,
+    "lon": -87.266052590087,
+    "source": "US Census"
+  },
   "3915 COONS AVE 32505, Pensacola, FL": {
     "display_name": "3915 COONS AVE, PENSACOLA, FL, 32505",
     "lat": 30.454516290719,
@@ -697,6 +709,12 @@
     "lon": -87.258389856664,
     "source": "US Census"
   },
+  "4670 DURHAM DR, PENSACOLA, FL 32526": {
+    "display_name": "4670 DURHAM DR, PENSACOLA, FL, 32526",
+    "lat": 30.452746179183,
+    "lon": -87.30654956643,
+    "source": "US Census"
+  },
   "4722 LILLIAN HWY 32506, Pensacola, FL": {
     "display_name": "4722 LILLIAN HWY, PENSACOLA, FL, 32506",
     "lat": 30.426758664201,
@@ -815,6 +833,12 @@
     "display_name": "5711 SCOTLAND RD, PENSACOLA, FL, 32526",
     "lat": 30.449391502363,
     "lon": -87.327741352788,
+    "source": "US Census"
+  },
+  "575 BATTEN BLVD, PERDIDO KEY, FL 32507": {
+    "display_name": "575 BATTEN BLVD, PENSACOLA, FL, 32507",
+    "lat": 30.33750330774,
+    "lon": -87.355840059661,
     "source": "US Census"
   },
   "5790 LINN AVE, PERDIDO KEY, FL 32507": {
