@@ -234,6 +234,12 @@
     "lon": -87.255605430753,
     "source": "US Census"
   },
+  "2 KEYS CT 32505, PENSACOLA, FL 32505": {
+    "display_name": "2 KEYS CT, PENSACOLA, FL, 32505",
+    "lat": 30.419393437761,
+    "lon": -87.262864626461,
+    "source": "US Census"
+  },
   "2002 WOODBURY DR, CANTONMENT, FL 32533": {
     "display_name": "2002 WOODBURY DR, CANTONMENT, FL, 32533",
     "lat": 30.606492957473,
