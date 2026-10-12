@@ -203,6 +203,12 @@
     "lon": -87.281374936911,
     "source": "US Census"
   },
+  "17 EATON RD, PENSACOLA, FL 32506": {
+    "display_name": "17 EATON RD, PENSACOLA, FL, 32506",
+    "lat": 30.422624346705,
+    "lon": -87.287209299075,
+    "source": "US Census"
+  },
   "1814 W GREGORY ST, PENSACOLA, FL 32502": {
     "display_name": "1814 W GREGORY ST, PENSACOLA, FL, 32502",
     "lat": 30.414349197852,
@@ -1177,6 +1183,12 @@
     "display_name": "906 N 63RD AVE, PENSACOLA, FL, 32506",
     "lat": 30.420552629376,
     "lon": -87.298273615161,
+    "source": "US Census"
+  },
+  "912 SPRINGBROOK AVE, PENSACOLA, FL 32505": {
+    "display_name": "912 SPRINGBROOK AVE, PENSACOLA, FL, 32505",
+    "lat": 30.46342726081,
+    "lon": -87.267982529153,
     "source": "US Census"
   },
   "921 CANDLESTICK DR, PENSACOLA, FL 32514": {
